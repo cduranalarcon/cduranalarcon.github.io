@@ -50,6 +50,8 @@ Dry growth occurs when supercooled droplets freeze very quickly when they collid
 
 I mentioned above the "instability" of convective clouds, by this I meant specifically thermal or hydrostatic instability. In order to have vertical movement of air masses, there must be a strong gradient or difference between the temperature of the ground surface and the top of the cloud. If the humid air near the ground is warm, it will tend to rise because it is less dense than the cold air above it, forming the upward air currents. The changes in wind speed and/or direction as the altitude increases (called vertical wind shear) help to form an outflow area for the air currents after they have cooled down inside the cloud, preventing the inflow warm upward currents from cooling down, which ensures a longer storm (see animation below).
 Corrientes tormenta
+
+
 Fig.5 - Upward warm air currents within a convective storm (red arrows). Colder descending air expelled far from the inflow area (black arrows). Source: Australian Bureau of Meteorology).
 
 Solar radiation and advection (horizontal transport) of warm air contribute to the heating of the air near the surface. For this reason, convective storms and especially hail storms are more frequent in the warm months and less frequent in cold periods and regions. It is important to note that extremely high temperatures near the ground surface can also play against the production of hail, if it melts before it reaches the ground. Additionally, cooling at the top of the cloud also favors instability.
@@ -60,6 +62,8 @@ Finally, the storms called supercells are immense convective storms in rotation,
 
 To get an idea of how hail storms are distributed around the world, the figure below shows a map of the probability of annual occurrence of hail based on a model that uses the environmental variables that best represent the frequency of hail, such as thermal instability, the height of the isotherm 0°C (where the phase change from solid to liquid occurs), vertical wind speed, among other variables.
 Mapa distribucion ocurrencia de granizo
+
+![]({{ site.baseurl }}/images/Mapa_distro.png)
 Fig.6 - Model of distribution of annual hail occurrence in the world elaborated with ERA-Interim data between 1979 and 2015 (Prein and Holland, 2018, WCE, Fig. 11a).
 How to detect and measure hail?
 
@@ -69,7 +73,9 @@ When a hailstorm occurs, it is restricted to a small area, so without a proper o
 
 There are few weather stations that have instruments specially equipped to measure the size and mass of hailstones, such as the Hailpad, which consists of a plastic foam, covered by aluminum or other material, that is placed firmly on the ground to receive the impacts of hailstones, which leave marks that allow to analyze the distribution of sizes. Again, although this information is very valuable, the scarcity of this type of instruments makes it very difficult to characterize the spatial variability at the local scale of hail occurrence.
 hailpad
-Fig.7 - Example of hail measurements made with a hailpad. There are marks of more than 1 inch (2.54 cm). Source: CocoRaHS.
+
+![]({{ site.baseurl }}/images/DsOKNaLWkAAI15i.jpg)
+*Fig.7 - Example of hail measurements made with a hailpad. There are marks of more than 1 inch (2.54 cm). Source: CocoRaHS.*
 
 Finally, weather radars represent a great tool for monitoring this type of phenomena, because they can cover a large area, with high spatial and temporal resolution on a continuous basis. Radars emit an electromagnetic signal that is scattered by particles in the atmosphere, then part of that scattered signal is captured and returned by the radar antenna. This information is processed to know the position in space of the particles, their velocity in the direction of the antenna (using the Doppler effect) and the radar reflectivity (related to the amount of signal returned from the particle). Since hail is much larger than snowflakes and rain, the reflectivity values are much higher and thresholds are used to detect it. It is important to note that remote sensing instruments have a high uncertainty in the estimation of hail size and many times it is not possible to obtain that information. The combination of these techniques with meteorological data or satellite information is very useful to understand the response of hydrometeors (generic name of the different forms that water takes in the atmosphere as rain, clouds or hail, etc.) to electromagnetic waves.
 How to predict in advance the occurrence of hailstorms?
