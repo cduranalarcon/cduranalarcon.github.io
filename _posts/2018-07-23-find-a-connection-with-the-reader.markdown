@@ -51,8 +51,8 @@ Dry growth occurs when supercooled droplets freeze very quickly when they collid
 I mentioned above the "instability" of convective clouds, by this I meant specifically thermal or hydrostatic instability. In order to have vertical movement of air masses, there must be a strong gradient or difference between the temperature of the ground surface and the top of the cloud. If the humid air near the ground is warm, it will tend to rise because it is less dense than the cold air above it, forming the upward air currents. The changes in wind speed and/or direction as the altitude increases (called vertical wind shear) help to form an outflow area for the air currents after they have cooled down inside the cloud, preventing the inflow warm upward currents from cooling down, which ensures a longer storm (see animation below).
 Corrientes tormenta
 
-
-Fig.5 - Upward warm air currents within a convective storm (red arrows). Colder descending air expelled far from the inflow area (black arrows). Source: Australian Bureau of Meteorology).
+![]({{ site.baseurl }}/images/storm_3fps_en.gif)
+*Fig.5 - Upward warm air currents within a convective storm (red arrows). Colder descending air expelled far from the inflow area (black arrows). Source: Australian Bureau of Meteorology).*
 
 Solar radiation and advection (horizontal transport) of warm air contribute to the heating of the air near the surface. For this reason, convective storms and especially hail storms are more frequent in the warm months and less frequent in cold periods and regions. It is important to note that extremely high temperatures near the ground surface can also play against the production of hail, if it melts before it reaches the ground. Additionally, cooling at the top of the cloud also favors instability.
 
@@ -64,8 +64,8 @@ To get an idea of how hail storms are distributed around the world, the figure b
 Mapa distribucion ocurrencia de granizo
 
 ![]({{ site.baseurl }}/images/Mapa_distro.png)
-Fig.6 - Model of distribution of annual hail occurrence in the world elaborated with ERA-Interim data between 1979 and 2015 (Prein and Holland, 2018, WCE, Fig. 11a).
-How to detect and measure hail?
+*Fig.6 - Model of distribution of annual hail occurrence in the world elaborated with ERA-Interim data between 1979 and 2015 (Prein and Holland, 2018, WCE, Fig. 11a).
+How to detect and measure hail?*
 
 In meteorology and sciences in general, the measurement and recording of variables associated with natural phenomena is fundamental to understand their processes, develop models and later evaluate them. When talking about precipitation in general, the frequency of occurrence is a very important variable to study. When it comes to hail, the size of the ice balls is one of the key variables to determine their impacts.
 
