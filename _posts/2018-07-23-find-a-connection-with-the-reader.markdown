@@ -8,15 +8,28 @@ tags:   Resources
 The idea of writing this article literally fell from the sky, straight into my head, when a sudden hailstorm hit those of us who were watching a cycling race, at a mountain pass called Col de Porte, located in the French Alps. After some lightning and thunder, the storm quickly became very intense, so fast that there was practically no time to seek shelter. For a period of several minutes, hailstones of sizes reaching 2 cm in diameter fell (see figure below), which caused a lot of pain when they hit the body. The worst part was taken by the cyclists who still had to cross the finish line and could not protect their backs at that time.
 
 ![]({{ site.baseurl }}/images/Hail_ScaleBar_ColdePorte.png)
-*Minimalism*
+*Fig.1 - Example of hail found in Col de Porte.*
 
-## Are you crazy? I can't swallow that.
+This hailstorm, which barely comes close to the most extreme cases that usually appear in the news, reminded me how important this type of meteorological phenomenon is, especially because of the damage it can cause to people and infrastructure.
 
-Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. Meh. So, how 'bout them Knicks? Also Zoidberg.
+When we think about hailstones, key questions often come to mind associated with how, when and where they are originated, how big these ice balls can be and how much damage they can cause. Some other less frequent questions are related to what are the methods to detect hail, how can we predict in advance the occurrence of hailstorms and finally what are the main challenges in understanding this phenomenon, especially in a climate change scenario. I will now address these questions in simple words, based on the latest international scientific literature.
 
-1. We need rest. The spirit is willing, but the flesh is spongy and bruised.
-2. Fry, we have a crate to deliver.
-3. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
+### What are the impacts of hailstorms?
+
+The largest historical hail records are in Europe and the United States. With sizes that have exceeded 150 mm in Germany, France and Italy; while in the United States there are data on hail up to 200 mm in diameter. I would not want to be around when one of those falls.
+
+![]({{ site.baseurl }}/images/Biggest_hailstone.jpg)
+*Fig.2 - Huge hailstone, Vivian, South Dakota, 23/07/2010. The measurement is in inches. Source: Severe Weather Europe.*
+
+Agriculture is strongly affected when intense hail events occur. Precipitations of small hailstones (~6 mm) are sufficient for a complete loss of production of some types of crops. Larger hailstones (~25 mm) can cause damage to cars and buildings. The costs in damages due to hailstorms amount to billions of dollars annually in the most affected countries.
+
+But without a doubt the worst possible impact is the loss of human life. Around the world, there are numerous cases in which intense hailstorms have ended in fatal consequences. One emblematic case occurred in La Paz, Bolivia, during a very intense hailstorm in 2002, lasting just over an hour, where the combination of hail, rain and ground conditions caused a landslide that cost the lives of more than 60 people.
+
+
+
+
+
+
 
 ### Why not indeed!
 
@@ -30,7 +43,7 @@ Say what? Throw her in the brig. Hey, you add a one and two zeros to that or we 
 
 Hey, you add a one and two zeros to that or we walk! You won't have time for sleeping, soldier, not with all the bed making you'll be doing. It's okay, Bender. I like cooking too. Hey, what kinda party is this? There's no booze and only one hooker.
 
-![]({{ site.baseurl }}/images/07.jpg)
+    
 *Minimalism*
 
 Ummm…to eBay? But I know you in the future. I cleaned your poop. I'm just glad my fat, ugly mama isn't alive to see this day. My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards.
