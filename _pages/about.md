@@ -14,7 +14,7 @@ Hello and welcome to ICED-A3! My name is Claudio Durán-Alarcón, a passionate a
 
 My main research interests are listed below:
 
-    - Polar Meteorology and Climate: Observations in polar regions, modeling, connections with lower latitudes.
+    - Polar Meteorology and Climate: Observations and modeling in polar regions.
     - Trends and extreme patterns: Temperatures, rainfall/snowfall, glacier retreat.
     - Radar remote sensing: Quantitative Estimation of Precipitation, analysis of vertical structure of the troposphere.
     -Surface mass/energy balance: In polar and mountain regions.
