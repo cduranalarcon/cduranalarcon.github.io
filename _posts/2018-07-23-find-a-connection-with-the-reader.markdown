@@ -7,7 +7,7 @@ tags:   Resources
 ---
 The idea of writing this article literally fell from the sky, straight into my head, when a sudden hailstorm hit those of us who were watching a cycling race, at a mountain pass called Col de Porte, located in the French Alps. After some lightning and thunder, the storm quickly became very intense, so fast that there was practically no time to seek shelter. For a period of several minutes, hailstones of sizes reaching 2 cm in diameter fell (see figure below), which caused a lot of pain when they hit the body. The worst part was taken by the cyclists who still had to cross the finish line and could not protect their backs at that time.
 
-![]({{ site.baseurl }}/images/07.jpg)
+![]({{ site.baseurl }}/images/Hail_ScaleBar_ColdePorte.png)
 *Minimalism*
 
 ## Are you crazy? I can't swallow that.
