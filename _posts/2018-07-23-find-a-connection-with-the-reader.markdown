@@ -14,7 +14,7 @@ This hailstorm, which barely comes close to the most extreme cases that usually 
 
 When we think about hailstones, key questions often come to mind associated with how, when and where they are originated, how big these ice balls can be and how much damage they can cause. Some other less frequent questions are related to what are the methods to detect hail, how can we predict in advance the occurrence of hailstorms and finally what are the main challenges in understanding this phenomenon, especially in a climate change scenario. I will now address these questions in simple words, based on the latest international scientific literature.
 
-### What are the impacts of hailstorms?
+## What are the impacts of hailstorms?
 
 The largest historical hail records are in Europe and the United States. With sizes that have exceeded 150 mm in Germany, France and Italy; while in the United States there are data on hail up to 200 mm in diameter. I would not want to be around when one of those falls.
 
@@ -26,7 +26,7 @@ Agriculture is strongly affected when intense hail events occur. Precipitations 
 But without a doubt the worst possible impact is the loss of human life. Around the world, there are numerous cases in which intense hailstorms have ended in fatal consequences. One emblematic case occurred in La Paz, Bolivia, during a very intense hailstorm in 2002, lasting just over an hour, where the combination of hail, rain and ground conditions caused a landslide that cost the lives of more than 60 people.
 
 
-### What exactly are hailstones, how do they form and what environmental conditions do they need?
+## What exactly are hailstones, how do they form and what environmental conditions do they need?
 
 According to the World Meteorological Organization, a hail is basically a piece of ice with a diameter greater than 5 mm that falls from a convective cloud of great vertical development (Cumulonimbus).
 Tipos de nubes
@@ -64,8 +64,9 @@ To get an idea of how hail storms are distributed around the world, the figure b
 Mapa distribucion ocurrencia de granizo
 
 ![]({{ site.baseurl }}/images/Mapa_distro.png)
-*Fig.6 - Model of distribution of annual hail occurrence in the world elaborated with ERA-Interim data between 1979 and 2015 (Prein and Holland, 2018, WCE, Fig. 11a).
-How to detect and measure hail?*
+*Fig.6 - Model of distribution of annual hail occurrence in the world elaborated with ERA-Interim data between 1979 and 2015 (Prein and Holland, 2018, WCE, Fig. 11a)."
+
+## How to detect and measure hail?
 
 In meteorology and sciences in general, the measurement and recording of variables associated with natural phenomena is fundamental to understand their processes, develop models and later evaluate them. When talking about precipitation in general, the frequency of occurrence is a very important variable to study. When it comes to hail, the size of the ice balls is one of the key variables to determine their impacts.
 
@@ -78,12 +79,14 @@ hailpad
 *Fig.7 - Example of hail measurements made with a hailpad. There are marks of more than 1 inch (2.54 cm). Source: CocoRaHS.*
 
 Finally, weather radars represent a great tool for monitoring this type of phenomena, because they can cover a large area, with high spatial and temporal resolution on a continuous basis. Radars emit an electromagnetic signal that is scattered by particles in the atmosphere, then part of that scattered signal is captured and returned by the radar antenna. This information is processed to know the position in space of the particles, their velocity in the direction of the antenna (using the Doppler effect) and the radar reflectivity (related to the amount of signal returned from the particle). Since hail is much larger than snowflakes and rain, the reflectivity values are much higher and thresholds are used to detect it. It is important to note that remote sensing instruments have a high uncertainty in the estimation of hail size and many times it is not possible to obtain that information. The combination of these techniques with meteorological data or satellite information is very useful to understand the response of hydrometeors (generic name of the different forms that water takes in the atmosphere as rain, clouds or hail, etc.) to electromagnetic waves.
-How to predict in advance the occurrence of hailstorms?
+
+## How to predict in advance the occurrence of hailstorms?
 
 Predicting in advance the occurrence of hail is very important to make timely decisions and avoid severe damage. It is not difficult to know in a general way in which regions hail might fall, because hail is associated with large convective storms. However, given the dynamic nature of this phenomenon and the numerous variables involved in the process of origin, growth and trajectory, it is very difficult to determine exactly where they will touch the ground. Predicting the size of hail is even more difficult and is often underestimated, especially in events with large hail.
 
 The models use information from environmental variables as a reference to estimate the probable maximum size of hail based on terrain elevation, isotherm elevation 0°C, available convective potential energy (CAPE index) measuring thermal instability, among other key variables.
-Climate change and hail challenges
+
+##Climate change and hail challenges
 
 According to various projections, it is expected that there will be an increase in favorable conditions for the development of convective storms, increasing the frequency, intensity and duration in different regions of the world, due to a rise in temperatures, which leads to an increase in the energy available in the atmosphere to generate upward currents of air. However, it is not entirely clear whether these changes will also apply to hail production.
 
