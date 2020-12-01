@@ -5,9 +5,10 @@ date:   2018-07-24 15:01:35 +0300
 image:  20200813_174038.jpg
 tags:   Resources
 ---
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
+The idea of writing this article literally fell from the sky, straight into my head, when a sudden hailstorm hit those of us who were watching a cycling race, at a mountain pass called Col de Porte, located in the French Alps. After some lightning and thunder, the storm quickly became very intense, so fast that there was practically no time to seek shelter. For a period of several minutes, hailstones of sizes reaching 2 cm in diameter fell (see figure below), which caused a lot of pain when they hit the body. The worst part was taken by the cyclists who still had to cross the finish line and could not protect their backs at that time.
 
-You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
+![]({{ site.baseurl }}/images/07.jpg)
+*Minimalism*
 
 ## Are you crazy? I can't swallow that.
 
