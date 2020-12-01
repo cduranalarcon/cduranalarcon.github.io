@@ -86,7 +86,7 @@ Predicting in advance the occurrence of hail is very important to make timely de
 
 The models use information from environmental variables as a reference to estimate the probable maximum size of hail based on terrain elevation, isotherm elevation 0°C, available convective potential energy (CAPE index) measuring thermal instability, among other key variables.
 
-##Climate change and hail challenges
+## Climate change and hail challenges
 
 According to various projections, it is expected that there will be an increase in favorable conditions for the development of convective storms, increasing the frequency, intensity and duration in different regions of the world, due to a rise in temperatures, which leads to an increase in the energy available in the atmosphere to generate upward currents of air. However, it is not entirely clear whether these changes will also apply to hail production.
 
