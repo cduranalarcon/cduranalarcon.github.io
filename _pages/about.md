@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 image: IMG-20191120-WA0001_copy.jpg
 ---
