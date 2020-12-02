@@ -49,13 +49,14 @@ image:
 
 # Field Work experience
 
-* January-February 2017. APRES3 Antarctic mission at the Dumont d’Urville (DDU) station, Adélie Land. The mainactivities included the deployment of a micro rain radar (K-band), a depolarization lidar (532 nm), disdrometers, ahigh-resolution multi-angle snowflake camera (MASC) and meteorological observations.
+* Enero-febrero de 2017. Misión Antártica APRES3 en la estación Dumont d'Urville (DDU), Tierra Adélie. Las principales actividades incluyeron el despliegue de un micro-radar de lluvia (banda K), un lidar de despolarización (532 nm), disdrómetros, cámara multiángulo de alta resolución para copos de nieve (MASC) y observaciones meteorológicas.
 
-* Support to Météo-France team at DDU in the launch of multiple radiosondes during the arrival of two differentatmospheric rivers, contributing to the observations of the Antarctic Circumnavigation Expedition (ACE) in February2017.
+* Apoyo al equipo de Météo-France en DDU en el lanzamiento de múltiples radiosondas durante la llegada de dos ríos atmosféricos diferentes, contribuyendo a las observaciones de la Expedición de Circunnavegación Antártica (ACE) en febrero de 2017.
 
-* 2012-2015. Multiple weekly field campaigns in Copiapó (Atacama Desert), Chimbarongo (Central Chile) and Oromo (Southern Chile), Chile. The main activities included the deployment and maintenance of the first soil moisture networkin Chile; meteorological observations; soil and vegetation sampling; lysimeter and spectroradiometer measurements forsatellite products (MODIS and SMOS) evaluation.
+* 2012-2015. Múltiples campañas de campo semanales en Copiapó (Desierto de Atacama), Chimbarongo (Chile central) y Oromo (Chile meridional), Chile. Las principales actividades incluyeron el despliegue y mantenimiento de la primera red de humedad del suelo en Chile; observaciones meteorológicas; muestreo del suelo y la vegetación; mediciones con lisímetros y espectrorradiómetros para la evaluación de los productos satelitales (MODIS y SMOS).
 
 ***
+
 # Intellectual Property Rights
 
 * **Durán-Alarcón, C.**, Mattar C., Santamaría-Artigas, A. and Valenzuela. N. RSR Calculator: Free software for filtering spectra. University of Chile. National Institute of Intellectual Property (INAPI-Chile), Ref. 228209, [enlace](http://www.biosfera.uchile.cl/descargas/RSR_Calculator.zip), 2013.
