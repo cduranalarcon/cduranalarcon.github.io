@@ -43,3 +43,18 @@ image:
 * **Durán-Alarcón**, C., Boudevillain, B., Genthon, C., Grazioli, J. and Berne, A.: Effective reflectivity, vertical velocity,spectral width and snowfall rate estimates derived from a micro rain radar (MRR) at the Dumont d’Urville station, Adelie Land, East Antarctica. PANGAEA, [https://doi.org/10.1594/PANGAEA.897614](https://doi.org/10.1594/PANGAEA.897614), 2019.
 
 * Mattar, C., Santamaría-Artigas, A.,**Durán-Alarcón, C.**, Olivera-Guerra, L. and Fuster, R.: LAB-net the FirstChilean soil moisture network for Remote Sensing Applications. International Soil Moisture Network (ISMN), [https://www.geo.tuwien.ac.at/insitu/data_viewer/](https://www.geo.tuwien.ac.at/insitu/data_viewer/), 2014.
+
+***
+
+# Field Work experience
+
+* January-February 2017. APRES3 Antarctic mission at the Dumont d’Urville (DDU) station, Adélie Land. The mainactivities included the deployment of a micro rain radar (K-band), a depolarization lidar (532 nm), disdrometers, ahigh-resolution multi-angle snowflake camera (MASC) and meteorological observations.
+
+* Support to Météo-France team at DDU in the launch of multiple radiosondes during the arrival of two differentatmospheric rivers, contributing to the observations of the Antarctic Circumnavigation Expedition (ACE) in February2017.
+
+* 2012-2015. Multiple weekly field campaigns in Copiapó (Atacama Desert), Chimbarongo (Central Chile) and Oromo(Southern Chile), Chile. The main activities included the deployment and maintenance of the first soil moisture networkin Chile; meteorological observations; soil and vegetation sampling; lysimeter and spectroradiometer measurements forsatellite products (MODIS and SMOS) evaluation.
+
+***
+## Intellectual Property Rights
+
+* 2013. **Durán-Alarcón, C.**, Mattar C., Santamaría-Artigas, A. and Valenzuela. N. RSR Calculator: Free softwarefor filtering spectra. University of Chile. National Institute of Intellectual Property (INAPI-Chile), Ref. 228209. \href{http://www.biosfera.uchile.cl/descargas/RSR_Calculator.zip}{\underline{Link}}.
