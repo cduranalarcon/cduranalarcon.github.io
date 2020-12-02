@@ -53,9 +53,9 @@ image:
 
 * Support to Météo-France team at DDU in the launch of multiple radiosondes during the arrival of two differentatmospheric rivers, contributing to the observations of the Antarctic Circumnavigation Expedition (ACE) in February2017.
 
-* 2012-2015. Multiple weekly field campaigns in Copiapó (Atacama Desert), Chimbarongo (Central Chile) and Oromo(Southern Chile), Chile. The main activities included the deployment and maintenance of the first soil moisture networkin Chile; meteorological observations; soil and vegetation sampling; lysimeter and spectroradiometer measurements forsatellite products (MODIS and SMOS) evaluation.
+* 2012-2015. Multiple weekly field campaigns in Copiapó (Atacama Desert), Chimbarongo (Central Chile) and Oromo (Southern Chile), Chile. The main activities included the deployment and maintenance of the first soil moisture networkin Chile; meteorological observations; soil and vegetation sampling; lysimeter and spectroradiometer measurements forsatellite products (MODIS and SMOS) evaluation.
 
 ***
 # Intellectual Property Rights
 
-* **Durán-Alarcón, C.**, Mattar C., Santamaría-Artigas, A. and Valenzuela. N. RSR Calculator: Free softwarefor filtering spectra. University of Chile. National Institute of Intellectual Property (INAPI-Chile), Ref. 228209, [http://www.biosfera.uchile.cl/descargas/RSR_Calculator.zip](Link), 2013.
+* **Durán-Alarcón, C.**, Mattar C., Santamaría-Artigas, A. and Valenzuela. N. RSR Calculator: Free software for filtering spectra. University of Chile. National Institute of Intellectual Property (INAPI-Chile), Ref. 228209, [Enlace](http://www.biosfera.uchile.cl/descargas/RSR_Calculator.zip), 2013.
