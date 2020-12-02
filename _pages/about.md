@@ -29,8 +29,6 @@ Mis principales intereses de investigación están listados a continuación:
 * **Balance de masa/energía de superficie**: En regiones polares y de montaña.
 * **Ríos atmosféricos**: Transporte de humedad desde el trópico hacia regiones polares y latitudes medias.
 
-Puedes encontrar más información de mis actividades de investigación en mi página de [ResearchGate](https://www.researchgate.net/profile/Claudio_Duran-Alarcon) o mi [CV](https://cduranalarcon.github.io/images/CV_CDURANALARCON.pdf).
-
 ***
 
 # Experiencia de trabajo de campo
@@ -40,3 +38,5 @@ Puedes encontrar más información de mis actividades de investigación en mi p�
 * Apoyo al equipo de Météo-France en DDU en el lanzamiento de múltiples radiosondas durante la llegada de dos ríos atmosféricos diferentes, contribuyendo a las observaciones de la Expedición de Circunnavegación Antártica (ACE) en febrero de 2017.
 
 * 2012-2015. Múltiples campañas de campo semanales en Copiapó (Desierto de Atacama), Chimbarongo (Chile central) y Oromo (Sur de Chile), Chile. Las principales actividades incluyeron el despliegue y mantenimiento de la primera red de humedad del suelo en Chile; observaciones meteorológicas; muestreo del suelo y la vegetación; mediciones con lisímetros y espectrorradiómetros para la evaluación de los productos satelitales (MODIS y SMOS).
+
+Puedes encontrar más información de mis actividades de investigación en mi página de [ResearchGate](https://www.researchgate.net/profile/Claudio_Duran-Alarcon) o mi [CV](https://cduranalarcon.github.io/images/CV_CDURANALARCON.pdf).
