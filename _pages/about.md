@@ -13,6 +13,8 @@ Espero que **ICED-A3** ("iced" por "congelado" o "cubierto de hielo" en inglés)
 
 <span style="color:blue">some *blue* text</span>
 
+dd{ color: green }
+
 ***
 
 ## Intereses de investigación
