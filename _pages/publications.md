@@ -38,7 +38,8 @@ image:
 * Mattar, C., Santamaría-Artigas, A. and **Durán-Alarcón, C.**: Estimating the burned area of the Torres del Paine National Park using remote sensing data, Rev. Teledetec. (Scopus indexing), (38), [http://www.aet.org.es/revistas/revista38/Numero38_04.pdf](http://www.aet.org.es/revistas/revista38/Numero38_04.pdf), 2012.
 
 ***
-## Bases de datos publicadas
+
+# Bases de datos publicadas
 
 * **Durán-Alarcón**, C., Boudevillain, B., Genthon, C., Grazioli, J. and Berne, A.: Effective reflectivity, vertical velocity,spectral width and snowfall rate estimates derived from a micro rain radar (MRR) at the Dumont d’Urville station, Adelie Land, East Antarctica. PANGAEA, [https://doi.org/10.1594/PANGAEA.897614](https://doi.org/10.1594/PANGAEA.897614), 2019.
 
@@ -55,6 +56,6 @@ image:
 * 2012-2015. Multiple weekly field campaigns in Copiapó (Atacama Desert), Chimbarongo (Central Chile) and Oromo(Southern Chile), Chile. The main activities included the deployment and maintenance of the first soil moisture networkin Chile; meteorological observations; soil and vegetation sampling; lysimeter and spectroradiometer measurements forsatellite products (MODIS and SMOS) evaluation.
 
 ***
-## Intellectual Property Rights
+# Intellectual Property Rights
 
 * 2013. **Durán-Alarcón, C.**, Mattar C., Santamaría-Artigas, A. and Valenzuela. N. RSR Calculator: Free softwarefor filtering spectra. University of Chile. National Institute of Intellectual Property (INAPI-Chile), Ref. 228209. \href{http://www.biosfera.uchile.cl/descargas/RSR_Calculator.zip}{\underline{Link}}.
