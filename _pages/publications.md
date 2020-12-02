@@ -47,16 +47,6 @@ image:
 
 ***
 
-# Experiencia de trabajo de campo
-
-* Enero-febrero de 2017. Misión Antártica APRES3 en la estación Dumont d'Urville (DDU), Tierra Adélie. Las principales actividades incluyeron el despliegue de un micro-radar de lluvia (banda K), un lidar de despolarización (532 nm), disdrómetros, cámara multiángulo de alta resolución para copos de nieve (MASC) y observaciones meteorológicas.
-
-* Apoyo al equipo de Météo-France en DDU en el lanzamiento de múltiples radiosondas durante la llegada de dos ríos atmosféricos diferentes, contribuyendo a las observaciones de la Expedición de Circunnavegación Antártica (ACE) en febrero de 2017.
-
-* 2012-2015. Múltiples campañas de campo semanales en Copiapó (Desierto de Atacama), Chimbarongo (Chile central) y Oromo (Sur de Chile), Chile. Las principales actividades incluyeron el despliegue y mantenimiento de la primera red de humedad del suelo en Chile; observaciones meteorológicas; muestreo del suelo y la vegetación; mediciones con lisímetros y espectrorradiómetros para la evaluación de los productos satelitales (MODIS y SMOS).
-
-***
-
 # Derechos de propiedad intelectual
 
 * **Durán-Alarcón, C.**, Mattar C., Santamaría-Artigas, A. and Valenzuela. N. RSR Calculator: Free software for filtering spectra. University of Chile. National Institute of Intellectual Property (INAPI-Chile), Ref. 228209, [enlace](http://www.biosfera.uchile.cl/descargas/RSR_Calculator.zip), 2013.
