@@ -2,92 +2,37 @@
 layout: page
 title: Publicaciones
 permalink: /papers/
-image: 08.jpg
+image: 
 ---
 
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+* Vignon, \'E., Picard, G., \textbf{Dur\'an-Alarc\'on, C.}, Alexander, S.P., Gall\'ee H. and Berne, A. Gravity wave excitation during the coastal transition of an extreme katabatic flow in Antarctica. Journal of the Atmospheric Sciences, 77(4): 1295–1312, \href{https://doi.org/10.1175/JAS-D-19-0264.1}{\underline{https://doi.org/10.1175/JAS-D-19-0264.1}}, 2020.
+    
+* \textbf{Dur\'an-Alarc\'on, C.}, Boudevillain, B., Genthon, C., Grazioli, J., Souverijns, N., Lipzig, N. P. M. Van, Gorodetskaya, I. V. and Berne, A.: The vertical structure of precipitation at two stations in East Antarctica derived from micro rain radars, Cryosph., 13, 247-264, \href{https://doi.org/10.5194/tc-13-247-2019}{\underline{https://doi.org/10.5194/tc-13-247-2019}}, 2019.
+	
+* Lemonnier, F., Madeleine, J., Claud, C., Genthon, C., \textbf{Dur\'an-Alarc\'on, C.}, Palerme, C., Berne, A., Souverijns, N., Lipzig, N. P. M. Van, Gorodetskaya, I. V, Ecuyer, T. L. and Wood, N.: Evaluation of CloudSat snowfall rate profiles by a comparison with in situ micro-rain radar observations in East Antarctica, Cryosph., 13, 943-954, \href{https://doi.org/10.5194/tc-13-943-2019}{\underline{https://doi.org/10.5194/tc-13-943-2019}}, 2019.
+	
+* Retamales-Mu\~noz, G., \textbf{Dur\'an-Alarc\'on, C.} and Mattar, C.: Recent land surface temperature patterns in Antarctica using satellite and reanalysis data, J. South Am. Earth Sci., \href{https://doi.org/10.1016/j.jsames.2019.102304}{\underline{https://doi.org/10.1016/j.jsames.2019.102304}}, 2019.
+	
+* Genthon, C., Berne, A., Grazioli, J., \textbf{Dur\'an-Alarc\'on, C.} and Praz, C.: Precipitation at Dumont d'Urville, Ad\'elie Land, East Antarctica : the APRES3 field campaigns dataset, Earth Syst. Sci. Data, 10, 1605-1612,\linebreak \href{https://doi.org/10.5194/essd-10-1605-2018}{\underline{https://doi.org/10.5194/essd-10-1605-2018}}, 2018.
 
-***
+* Souverijns, N., Gossart, A., Lhermitte, S., Gorodetskaya, I. V., Grazioli, J., Berne, A., \textbf{Dur\'an-Alarc\'on, C.}, Boudevillain, B., Genthon, C., Scarchilli, C. and Lipzig, N. P. M. Van: Evaluation of the CloudSat surface snowfall product over Antarctica using ground-based precipitation radars, Cryosph., 12, 3775-3789, \href{https://doi.org/10.5194/tc-12-3775-2018}{\underline{https://doi.org/10.5194/tc-12-3775-2018}}, 2018.
+	
+* Grazioli, J., Genthon, C., Boudevillain, B., \textbf{Dur\'an-Alarc\'on, C.}, Del Guasta, M., Madeleine, J.-B. and Berne, A.: Measurements of precipitation in Dumont d'Urville, Ad\'elie Land, East Antarctica, Cryosph., 11, 1797-1811, \href{https://doi.org/10.5194/tc-11-1797-2017}{\underline{https://doi.org/10.5194/tc-11-1797-2017}}, 2017.
 
-### Headings by default:
+* Olivera-Guerra, L., Mattar, C., Merlin, O., \textbf{Dur\'an-Alarc\'on, C.}, Santamar\'ia-Artigas, A. and Fuster, R.: An operational method for the disaggregation of land surface temperature to estimate actual evapotranspiration in the arid region of Chile, ISPRS J. Photogramm. Remote Sens., \href{https://doi.org/10.1016/j.isprsjprs.2017.03.014}{\underline{https://doi.org/10.1016/j.isprsjprs.2017.03.014}}, 2017.
 
-# This is the default title
-## This is the default title
-### This is the default title
-#### This is the default title
-##### This is the default title
-###### This is the default title
+* Rivera, C., Mattar, C. and \textbf{Dur\'an-Alarc\'on, C.}: Trend in vegetational cover affected by fire in the Torres del Paine National Park, Rev. Teledetec. (Scopus indexing), 2017(50), \href{https://doi.org/10.4995/raet.2017.7422}{\underline{https://doi.org/10.4995/raet.2017.7422}}, 2017.
 
-{% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
-{% endhighlight %}
+* Mattar, C., Santamar\'ia-Artigas, A., \textbf{Dur\'an-Alarc\'on, C.}, Olivera-Guerra, L., Fuster, R. and Borvar\'an, D.: The LAB-Net Soil Moisture Network: Application to Thermal Remote Sensing and Surface Energy Balance, Data, 1, 1-6, \href{https://doi.org/10.3390/data1010006}{\underline{https://doi.org/10.3390/data1010006}}, 2016.}
 
-***
+* Mattar, C., \textbf{Dur\'an-Alarc\'on, C.}, Jim\'enez-Mu\~noz, J.-C., Santamar\'ia-Artigas, A., Olivera-Guerra, L. and Sobrino, J. A.: Global Atmospheric Profiles from Reanalysis Information (GAPRI): a new database for earth surface temperature retrieval, Int. J. Remote Sens., 36(19–20), 5045-5060, \href{https://doi.org/10.1080/01431161.2015.1054965}{\underline{https://doi.org/10.1080/01431161.2015.1054965}}, 2015.
+	
+* \textbf{Dur\'an-Alarc\'on, C.}, Gevaert, C. M., Mattar, C., Jim\'enez-Mu\~noz, J.-C. and Santillan-Portilla, N.: Recent trends on glacier area retreat over the group of Nevados Caullaraju-Pastoruri ( Cordillera Blanca , Peru ) using Landsat imagery, J. South Am. Earth Sci., 59, 19–26, \href{https://doi.org/10.1016/j.jsames.2015.01.006}{\underline{https://doi.org/10.1016/j.jsames.2015.01.006}}, 2015.
 
-### Lists
+* Mattar, C., Hern\'andez, J., Santamar\'ia-Artigas, A., \textbf{Dur\'an-Alarc\'on, C.}, Olivera-Guerra, L. and Inzunza, M.: A first in-flight absolute calibration of the Chilean Earth Observation Satellite, ISPRS J. Photogramm. Remote Sens., 92, 16-25, \href{https://doi.org/10.1016/j.jsames.2015.01.006}{\underline{https://doi.org/10.1016/j.isprsjprs.2014.02.017}}, 2014.
+	
+* \textbf{Dur\'an-Alarc\'on, C.}, Santamar\'ia-Artigas, A., Valenzuela, N. and Mattar, C.: RSR Calculator, a tool for the Calibration / Validation activities, Rev. Teledetec. (Scopus indexing), (42), \href{https://doi.org/10.4995/raet.2014.3230}{\underline{https://doi.org/10.4995/raet.2014.3230}}, 2014.}
 
-#### Ordered list example:
+* Santamar\'ia-Artigas, A., Mattar, C., \textbf{Dur\'an-Alarc\'on, C.}, Olivera, L., Inzunza, M., Tapia, D. and Escobar-Lav\'in, E.: First application of FASAT-Charlie Imagery for the assessment of semiarid prairies in Chile, Rev. Teledetec. (Scopus indexing), (40), \href{http://www.aet.org.es/revistas/revista40/Numero40_07.pdf}{\underline{http://www.aet.org.es/revistas/revista40/Numero40\_07.pdf}}, 2013.
 
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-***
-
-#### Unordered list example:
-
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
-
-{% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
-
-* Unordered list item 1
-* Unordered list item 2
-{% endhighlight %}
-
-***
-
-### Quotes
-
-> Coming together is a beginning; keeping together is progress; working together is success. — Edward Everett Hale
-
-***
-
-### Syntax Highlighter
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-{% endhighlight %}
-
-***
-
-### Videos
-
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
-
-***
-
-### Images
-
-![]({{site.baseurl}}/images/09.jpg)
-*Backyard*
-
-***
+* Mattar, C., Santamar\'ia-Artigas, A. and \textbf{Dur\'an-Alarc\'on, C.}: Estimating the burned area of the Torres del Paine National Park using remote sensing data, Rev. Teledetec. (Scopus indexing), (38),\linebreak \href{http://www.aet.org.es/revistas/revista38/Numero38_04.pdf}{\underline{http://www.aet.org.es/revistas/revista38/Numero38\_04.pdf}}, 2012.
