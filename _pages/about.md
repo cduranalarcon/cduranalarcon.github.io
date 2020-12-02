@@ -11,9 +11,9 @@ He investigado el retroceso de glaciares tropicales y el calentamiento en el Ár
 
 Espero que **ICED-A3** ("iced" por "congelado" o "cubierto de hielo" en inglés) sea una buena herramienta para compartir contigo las experiencias actuales y futuras en el ámbito científico Polar y Alpino. 
 
-<span style="color:blue">some *blue* text</span>
+<span style="color:#217396">I</span>C<span style="color:#217396">E</span>D-A<span style="color:#217396">3</span>
 
-dd{ color: green }
+<b style="font-family: serif;"><b style="color: #217396;">I</b><b>C</b><b style="color: #217396;">E</b><b>D-A</b><b style="color: #217396;"><sup>3</sup></b></b>
 
 ***
 
