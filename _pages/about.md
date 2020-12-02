@@ -9,9 +9,9 @@ image: IMG-20191120-WA0001_copy.jpg
 
 He investigado el retroceso de glaciares tropicales y el calentamiento en el Ártico, como miembro del Laboratorio para el Análisis de la Biosfera (LAB UChile), y más recientemente, me he dedicado al estudio de la precipitación sólida utilizando radares, un lidar atmosférico y medidas in-situ en la Antártida y los Alpes, como parte de mi tesis doctorado en el "Institut des Geosciences de l'Environnement" (IGE).
 
+Espero que ICED-A3 ("iced" por "congelado" o "cubierto de hielo" en inglés) sea una buena herramienta para compartir contigo las experiencias actuales y futuras en el ámbito científico Polar y Alpino. 
 
-Posteriormente, continué mis estudios en el Máster en Ciencias de la Tierra especializado en clima, medioambiente y agua de la Université Joseph Fourier (Grenoble, France), con un fuerte énfasis en la glaciología y atmósfera. Todo el camino recorrido me llevó a continuar con un Doctorado en Ciencias de la Tierra en el "Institut des Geosciences de l'Environnement" (IGE) de la Université Grenoble Alpes, estudiando la precipitación sólida utilizando radares, un lidar atmosférico y medidas in-situ en la Antártida y los Alpes, lugares a los cuales tuve la oportunidad de ir personalmente a desplegar instrumentos y recolectar datos. Espero que ICED-A3 ("iced" por "congelado" o "cubierto de hielo" en inglés) sea una buena herramienta para compartir contigo las experiencias actuales y futuras en el ámbito científico Polar y Alpino. 
-
+***
 
 ## Intereses de investigación
  
