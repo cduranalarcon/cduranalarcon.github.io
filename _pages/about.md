@@ -18,7 +18,7 @@ Espero que <b style="font-family: serif;"><b style="color: #217396;">I</b><b>C</
 
 ***
 
-## Intereses de investigación
+# Intereses de investigación
  
 
 Mis principales intereses de investigación están listados a continuación:
