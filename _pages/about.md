@@ -19,4 +19,4 @@ Mis principales intereses de investigación están listados a continuación:
 * Balance de masa/energía de superficie: En regiones polares y de montaña.
 * Ríos atmosféricos: Transporte de humedad desde el trópico hacia regiones polares y latitudes medias.
 
-Puedes encontrar más información de mis actividades de investigación en mi página de ResearchGate: here.
+Puedes encontrar más información de mis actividades de investigación en mi página de ResearchGate: [here](https://cduranalarcon.github.io/images/CV_CDURANALARCON.pdf).
