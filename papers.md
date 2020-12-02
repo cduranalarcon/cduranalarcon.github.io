@@ -36,3 +36,4 @@ image:
 * Santamaría-Artigas, A., Mattar, C., **Durán-Alarcón, C.**, Olivera, L., Inzunza, M., Tapia, D. and Escobar-Lavín, E.: First application of FASAT-Charlie Imagery for the assessment of semiarid prairies in Chile, Rev. Teledetec. (Scopus indexing), (40), [http://www.aet.org.es/revistas/revista40/Numero40_07.pdf](http://www.aet.org.es/revistas/revista40/Numero40_07.pdf), 2013.
 
 * Mattar, C., Santamaría-Artigas, A. and **Durán-Alarcón, C.**: Estimating the burned area of the Torres del Paine National Park using remote sensing data, Rev. Teledetec. (Scopus indexing), (38),[http://www.aet.org.es/revistas/revista38/Numero38_04.pdf](http://www.aet.org.es/revistas/revista38/Numero38_04.pdf), 2012.
+
