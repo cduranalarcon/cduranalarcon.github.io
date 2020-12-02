@@ -4,6 +4,7 @@ title: Publicaciones
 permalink: /papers/
 image: 
 ---
+dd
 
 * Vignon, É., Picard, G., **Durán-Alarcón, C.**, Alexander, S.P., Gallée H. and Berne, A. Gravity wave excitation during the coastal transition of an extreme katabatic flow in Antarctica. Journal of the Atmospheric Sciences, 77(4): 1295–1312, [https://doi.org/10.1175/JAS-D-19-0264.1](https://doi.org/10.1175/JAS-D-19-0264.1), 2020.
     
