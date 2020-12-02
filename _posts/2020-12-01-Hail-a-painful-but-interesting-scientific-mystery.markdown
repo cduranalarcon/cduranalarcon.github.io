@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Hail, a painful but interesting scientific mystery
-date:   2018-07-24 15:01:35 +0300
+date:   2020-12-01 15:01:35 +0200
 image:  20200813_174038.jpg
 tags:   Meteorology Precipitation
 ---
