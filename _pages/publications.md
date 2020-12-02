@@ -58,4 +58,4 @@ image:
 ***
 # Intellectual Property Rights
 
-* **Durán-Alarcón, C.**, Mattar C., Santamaría-Artigas, A. and Valenzuela. N. RSR Calculator: Free software for filtering spectra. University of Chile. National Institute of Intellectual Property (INAPI-Chile), Ref. 228209, [Enlace](http://www.biosfera.uchile.cl/descargas/RSR_Calculator.zip), 2013.
+* **Durán-Alarcón, C.**, Mattar C., Santamaría-Artigas, A. and Valenzuela. N. RSR Calculator: Free software for filtering spectra. University of Chile. National Institute of Intellectual Property (INAPI-Chile), Ref. 228209, [enlace](http://www.biosfera.uchile.cl/descargas/RSR_Calculator.zip), 2013.
