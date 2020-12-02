@@ -53,7 +53,7 @@ image:
 
 * Apoyo al equipo de Météo-France en DDU en el lanzamiento de múltiples radiosondas durante la llegada de dos ríos atmosféricos diferentes, contribuyendo a las observaciones de la Expedición de Circunnavegación Antártica (ACE) en febrero de 2017.
 
-* 2012-2015. Múltiples campañas de campo semanales en Copiapó (Desierto de Atacama), Chimbarongo (Chile central) y Oromo (Chile meridional), Chile. Las principales actividades incluyeron el despliegue y mantenimiento de la primera red de humedad del suelo en Chile; observaciones meteorológicas; muestreo del suelo y la vegetación; mediciones con lisímetros y espectrorradiómetros para la evaluación de los productos satelitales (MODIS y SMOS).
+* 2012-2015. Múltiples campañas de campo semanales en Copiapó (Desierto de Atacama), Chimbarongo (Chile central) y Oromo (Sur de Chile), Chile. Las principales actividades incluyeron el despliegue y mantenimiento de la primera red de humedad del suelo en Chile; observaciones meteorológicas; muestreo del suelo y la vegetación; mediciones con lisímetros y espectrorradiómetros para la evaluación de los productos satelitales (MODIS y SMOS).
 
 ***
 
