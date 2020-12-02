@@ -5,7 +5,7 @@ permalink: /papers/
 image: 
 ---
 
-* Vignon, \'E., Picard, G., **Durán-Alarcón, C.**, Alexander, S.P., Gall\'ee H. and Berne, A. Gravity wave excitation during the coastal transition of an extreme katabatic flow in Antarctica. Journal of the Atmospheric Sciences, 77(4): 1295–1312, \href{https://doi.org/10.1175/JAS-D-19-0264.1}{\underline{https://doi.org/10.1175/JAS-D-19-0264.1}}, 2020.
+* Vignon, É., Picard, G., **Durán-Alarcón, C.**, Alexander, S.P., Gallée H. and Berne, A. Gravity wave excitation during the coastal transition of an extreme katabatic flow in Antarctica. Journal of the Atmospheric Sciences, 77(4): 1295–1312, [https://doi.org/10.1175/JAS-D-19-0264.1](https://doi.org/10.1175/JAS-D-19-0264.1), 2020.
     
 * **Durán-Alarcón, C.**, Boudevillain, B., Genthon, C., Grazioli, J., Souverijns, N., Lipzig, N. P. M. Van, Gorodetskaya, I. V. and Berne, A.: The vertical structure of precipitation at two stations in East Antarctica derived from micro rain radars, Cryosph., 13, 247-264, \href{https://doi.org/10.5194/tc-13-247-2019}{\underline{https://doi.org/10.5194/tc-13-247-2019}}, 2019.
 	
