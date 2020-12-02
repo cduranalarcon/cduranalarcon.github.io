@@ -35,11 +35,11 @@ image:
 
 * Santamaría-Artigas, A., Mattar, C., **Durán-Alarcón, C.**, Olivera, L., Inzunza, M., Tapia, D. and Escobar-Lavín, E.: First application of FASAT-Charlie Imagery for the assessment of semiarid prairies in Chile, Rev. Teledetec. (Scopus indexing), (40), [http://www.aet.org.es/revistas/revista40/Numero40_07.pdf](http://www.aet.org.es/revistas/revista40/Numero40_07.pdf), 2013.
 
-* Mattar, C., Santamaría-Artigas, A. and **Durán-Alarcón, C.**: Estimating the burned area of the Torres del Paine National Park using remote sensing data, Rev. Teledetec. (Scopus indexing), (38),[http://www.aet.org.es/revistas/revista38/Numero38_04.pdf](http://www.aet.org.es/revistas/revista38/Numero38_04.pdf), 2012.
+* Mattar, C., Santamaría-Artigas, A. and **Durán-Alarcón, C.**: Estimating the burned area of the Torres del Paine National Park using remote sensing data, Rev. Teledetec. (Scopus indexing), (38), [http://www.aet.org.es/revistas/revista38/Numero38_04.pdf](http://www.aet.org.es/revistas/revista38/Numero38_04.pdf), 2012.
 
 ***
 ## Bases de datos publicadas
 
-* **Durán-Alarcón**, C., Boudevillain, B., Genthon, C., Grazioli, J. and Berne, A.: Effective reflectivity, vertical velocity,spectral width and snowfall rate estimates derived from a micro rain radar (MRR) at the Dumont d’Urville station, Adelie Land, East Antarctica. PANGAEA,[https://doi.org/10.1594/PANGAEA.897614](https://doi.org/10.1594/PANGAEA.897614), 2019.
+* **Durán-Alarcón**, C., Boudevillain, B., Genthon, C., Grazioli, J. and Berne, A.: Effective reflectivity, vertical velocity,spectral width and snowfall rate estimates derived from a micro rain radar (MRR) at the Dumont d’Urville station, Adelie Land, East Antarctica. PANGAEA, [https://doi.org/10.1594/PANGAEA.897614](https://doi.org/10.1594/PANGAEA.897614), 2019.
 
-* Mattar, C., Santamaría-Artigas, A.,**Durán-Alarcón, C.**, Olivera-Guerra, L. and Fuster, R.: LAB-net the FirstChilean soil moisture network for Remote Sensing Applications. International Soil Moisture Network (ISMN),[https://www.geo.tuwien.ac.at/insitu/data_viewer/](https://www.geo.tuwien.ac.at/insitu/data_viewer/), 2014.
+* Mattar, C., Santamaría-Artigas, A.,**Durán-Alarcón, C.**, Olivera-Guerra, L. and Fuster, R.: LAB-net the FirstChilean soil moisture network for Remote Sensing Applications. International Soil Moisture Network (ISMN), [https://www.geo.tuwien.ac.at/insitu/data_viewer/](https://www.geo.tuwien.ac.at/insitu/data_viewer/), 2014.
