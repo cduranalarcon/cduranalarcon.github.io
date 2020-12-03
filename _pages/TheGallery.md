@@ -47,6 +47,8 @@ Esta galeria Contiene una serie de imágenes aleatorias para probar este tipo de
         <li><a href="#img_b8"><img src="dscn0059-copie.jpg"></a></li>
         <li><a href="#img_b9"><img src="20200813_174038.jpg"></a></li>
         <li><a href="#img_b10"><img src="Mapa_distro.png"></a></li>
+        <li><a href="#img_b11"><img src="20200813_174038.jpg"></a></li>
+        <li><a href="#img_b12"><img src="storm_3fps_en.gif"></a></li>
     </ul>
 
   <a href="#_b1" class="lightbox trans" id="img_b1"><img src="01.jpg"></a>
@@ -58,7 +60,9 @@ Esta galeria Contiene una serie de imágenes aleatorias para probar este tipo de
   <a href="#_b7" class="lightbox trans" id="img_b7"><img src="Biggest_hailstone.jpg"></a>
   <a href="#_b8" class="lightbox trans" id="img_b8"><img src="dscn0059-copie.jpg"></a>
   <a href="#_b9" class="lightbox trans" id="img_b9"><img src="20200813_174038.jpg"></a>
-  <a href="#_b10" class="lightbox trans" id="img_1b0"><img src="Mapa_distro.png"></a>
+  <a href="#_b10" class="lightbox trans" id="img_b10"><img src="Mapa_distro.png"></a>
+  <a href="#_b11" class="lightbox trans" id="img_b11"><img src="20200813_174038.jpg"></a>
+  <a href="#_b12" class="lightbox trans" id="img_b12"><img src="storm_3fps_en.gif"></a>
 </div>
 
 
