@@ -3,7 +3,12 @@ layout: page
 title: Galerías
 permalink: /gallery/
 image: 
+  - image_path: /images/01.jpg
+    title: Apple Pie
+  - image_path: /images/02.jpg
+    title: Birthday Cake
+  - image_path: /images/03.jpg
+    title: Black Forest
+  - image_path: /images/04.jpg
+    title: Brownie
 ---
-* ![Image 1](http://example.com/image1.jpg)
-* [![Image 2](http://example.com/image2.jpg)](http://example.com/image2_full.jpg)
-* ![](http://example.com/image3.jpg)
