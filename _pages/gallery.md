@@ -2,7 +2,7 @@
 layout: page
 title: Galerías
 permalink: /gallery/
-image: 
+images: 
   - image_path: 01.jpg
     title: Apple Pie
   - image_path: 02.jpg
@@ -12,3 +12,9 @@ image:
   - image_path: 04.jpg
     title: Brownie
 ---
+
+<ul class="photo-gallery">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul>
