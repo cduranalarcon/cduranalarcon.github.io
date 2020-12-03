@@ -13,8 +13,14 @@ images:
     title: Brownie
 ---
 
-<ul class="gallery-wrapper">
-  {% for image in page.images %}
-    <li class="item-wrapper"><img class="gallery-item image-holder r-3-2" src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
-  {% endfor %}
+
+<ul>
+    <li><a href="#img_3"><img src="03.jpg"></a></li>
+    <li><a href="#img_4"><img src="04.jpg"></a></li>
+    <li><a href="#img_5"><img src="27ac-5.png"></a></li>
+    <li><a href="#img_6"><img src="CimaNorte_TiposDeNubes.jpg"></a></li>
+    <li><a href="#img_7"><img src="Biggest_hailstone.jpg"></a></li>
+    <li><a href="#img_8"><img src="Mapa_distro.png"></a></li>
+    <li><a href="#img_9"><img src="20200813_174038.jpg"></a></li>
+    <li><a href="#img_10"><img src="dscn0059-copie.jpg"></a></li>
 </ul>
