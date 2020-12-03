@@ -62,8 +62,8 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
   <a href="#_b7" class="lightbox trans" id="img_b7"><img src="Nubes/Ci-metoffice-UK.jpg"></a>
   <a href="#_b8" class="lightbox trans" id="img_b8"><img src="Nubes/Cs-MeteoFrance.jpg"></a>
   <a href="#_b9" class="lightbox trans" id="img_b9"><img src="Nubes/Cc-MeteoFrance.jpg"></a>
-  <a href="#_b10" class="lightbox trans" id="img_b10"><img src="Mapa_distro.png"></a>
-  <a href="#_b11" class="lightbox trans" id="img_b11"><img src="Nubes/Cb.jpg"></a>
+  <a href="#_b10" class="lightbox trans" id="img_b10"><img src="Nubes/Cb.jpg"></a>
+  <a href="#_b11" class="lightbox trans" id="img_b11"><img src="Nubes/mammatus-meteoffice-UK.jpg"></a>
   <a href="#_b12" class="lightbox trans" id="img_b12"><img src="Nubes/Lenticular_clouds.jpg"></a>
 </div>
 
