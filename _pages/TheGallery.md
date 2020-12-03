@@ -12,7 +12,7 @@ Esta galeria Contiene una serie de imágenes aleatorias para probar este tipo de
 <div class="top0">
     <ul>
         <li><a href="#img_3"><img src="dscn0205c.jpg"></a></li>
-        <li><a href="#img_4"><img src="04.jpg"></a></li>
+        <li><a href="#img_4"><img src="iceberg.jpg"></a></li>
         <li><a href="#img_5"><img src="27ac-5.png"></a></li>
         <li><a href="#img_6"><img src="CimaNorte_TiposDeNubes.jpg"></a></li>
         <li><a href="#img_7"><img src="Biggest_hailstone.jpg"></a></li>
@@ -22,7 +22,7 @@ Esta galeria Contiene una serie de imágenes aleatorias para probar este tipo de
     </ul>
 
   <a href="#_3" class="lightbox trans" id="img_3"><img src="dscn0205c.jpg"></a>
-  <a href="#_4" class="lightbox trans" id="img_4"><img src="04.jpg"></a>
+  <a href="#_4" class="lightbox trans" id="img_4"><img src="iceberg.jpg"></a>
   <a href="#_5" class="lightbox trans" id="img_5"><img src="27ac-5.png"></a>
   <a href="#_6" class="lightbox trans" id="img_6"><img src="CimaNorte_TiposDeNubes.jpg"></a>
   <a href="#_7" class="lightbox trans" id="img_7"><img src="Biggest_hailstone.jpg"></a>
