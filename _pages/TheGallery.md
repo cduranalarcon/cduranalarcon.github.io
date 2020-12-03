@@ -14,7 +14,7 @@ images:
 ---
 
 
-<div class="top">
+<div class="top0">
     <ul>
         <li><a href="#img_3"><img src="03.jpg"></a></li>
         <li><a href="#img_4"><img src="04.jpg"></a></li>
