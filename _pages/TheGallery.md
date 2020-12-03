@@ -29,6 +29,8 @@ image:
   <a href="#_10" class="lightbox trans" id="img_10"><img src="Mapa_distro.png"></a>
 </div>
 
+*** 
+
 # Galeria de Prueba 2
 
 <div class="top0">
