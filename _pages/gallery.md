@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publicaciones
-permalink: /papers/
+title: Galerías
+permalink: /gallery/
 image: 
 ---
 
