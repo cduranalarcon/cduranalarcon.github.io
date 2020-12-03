@@ -7,6 +7,8 @@ image:
 
 # Galeria de Prueba
 
+Esta galeria Contiene una serie de imágenes aleatorias para probar este tipo de galerías.
+
 <div class="top0">
     <ul>
         <li><a href="#img_3"><img src="03.jpg"></a></li>
@@ -14,7 +16,7 @@ image:
         <li><a href="#img_5"><img src="27ac-5.png"></a></li>
         <li><a href="#img_6"><img src="CimaNorte_TiposDeNubes.jpg"></a></li>
         <li><a href="#img_7"><img src="Biggest_hailstone.jpg"></a></li>
-        <li><a href="#img_8"><img src="Mapa_distro.png"></a></li>
+        <li><a href="#img_8"><img src="dscn0059-copie.jpg"></a></li>
         <li><a href="#img_9"><img src="20200813_174038.jpg"></a></li>
         <li><a href="#img_10"><img src="Mapa_distro.png"></a></li>
     </ul>
@@ -35,16 +37,20 @@ image:
 
 <div class="top0">
     <ul>
+        <li><a href="#img_b1"><img src="01.jpg"></a></li>
+        <li><a href="#img_b2"><img src="02.jpg"></a></li>
         <li><a href="#img_b3"><img src="04.jpg"></a></li>
         <li><a href="#img_b4"><img src="03.jpg"></a></li>
         <li><a href="#img_b5"><img src="27ac-5.png"></a></li>
         <li><a href="#img_b6"><img src="CimaNorte_TiposDeNubes.jpg"></a></li>
         <li><a href="#img_b7"><img src="Biggest_hailstone.jpg"></a></li>
-        <li><a href="#img_b8"><img src="Mapa_distro.png"></a></li>
+        <li><a href="#img_b8"><img src="dscn0059-copie.jpg"></a></li>
         <li><a href="#img_b9"><img src="20200813_174038.jpg"></a></li>
         <li><a href="#img_b10"><img src="Mapa_distro.png"></a></li>
     </ul>
 
+  <a href="#_b1" class="lightbox trans" id="img_b1"><img src="01.jpg"></a>
+  <a href="#_b2" class="lightbox trans" id="img_b2"><img src="02.jpg"></a>
   <a href="#_b3" class="lightbox trans" id="img_b3"><img src="04.jpg"></a>
   <a href="#_b4" class="lightbox trans" id="img_b4"><img src="03.jpg"></a>
   <a href="#_b5" class="lightbox trans" id="img_b5"><img src="27ac-5.png"></a>
