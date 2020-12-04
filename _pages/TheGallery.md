@@ -56,14 +56,14 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
   <a href="#_b1" class="lightbox trans" id="img_b1"><img src="Nubes/Cu.jpg"><div class="top-left">Cumulus (Cu).</div></a>
   <a href="#_b2" class="lightbox trans" id="img_b2"><img src="Nubes/St.jpg"><div class="top-left">Stratus (St).</div></a>
   <a href="#_b3" class="lightbox trans" id="img_b3"><img src="Nubes/Sc.jpg"><div class="top-left">Stratocumulus (Sc).</div></a>
-  <a href="#_b4" class="lightbox trans" id="img_b4"><img src="Nubes/Ns-metoffice-UK.jpg"></a>
-  <a href="#_b5" class="lightbox trans" id="img_b5"><img src="Nubes/Ac.jpg"></a>
-  <a href="#_b6" class="lightbox trans" id="img_b6"><img src="Nubes/As.jpg"></a>
-  <a href="#_b7" class="lightbox trans" id="img_b7"><img src="Nubes/Ci-metoffice-UK.jpg"></a>
-  <a href="#_b8" class="lightbox trans" id="img_b8"><img src="Nubes/Cs-MeteoFrance.jpg"></a>
-  <a href="#_b9" class="lightbox trans" id="img_b9"><img src="Nubes/Cc-MeteoFrance.jpg"></a>
-  <a href="#_b10" class="lightbox trans" id="img_b10"><img src="Nubes/Cb.jpg"></a>
-  <a href="#_b11" class="lightbox trans" id="img_b11"><img src="Nubes/mammatus-meteoffice-UK.jpg"></a>
-  <a href="#_b12" class="lightbox trans" id="img_b12"><img src="Nubes/Lenticular_clouds.jpg"></a>
+  <a href="#_b4" class="lightbox trans" id="img_b4"><img src="Nubes/Ns-metoffice-UK.jpg"><div class="top-left">Nimbus (Ns).</div></a>
+  <a href="#_b5" class="lightbox trans" id="img_b5"><img src="Nubes/Ac.jpg"><div class="top-left">Altocumulus (Ac).</div></a>
+  <a href="#_b6" class="lightbox trans" id="img_b6"><img src="Nubes/As.jpg"><div class="top-left">Altostratus (As).</div></a>
+  <a href="#_b7" class="lightbox trans" id="img_b7"><img src="Nubes/Ci-metoffice-UK.jpg"><div class="top-left">Cirrus (Ci).</div></a>
+  <a href="#_b8" class="lightbox trans" id="img_b8"><img src="Nubes/Cs-MeteoFrance.jpg"><div class="top-left">Cirrostratus (Cs).</div></a>
+  <a href="#_b9" class="lightbox trans" id="img_b9"><img src="Nubes/Cc-MeteoFrance.jpg"><div class="top-left">Cirrocumulus (Cc).</div></a>
+  <a href="#_b10" class="lightbox trans" id="img_b10"><img src="Nubes/Cb.jpg"><div class="top-left">Cumulonimbus (Cb).</div></a>
+  <a href="#_b11" class="lightbox trans" id="img_b11"><img src="Nubes/mammatus-meteoffice-UK.jpg"><div class="top-left">Nubes mammatus.</div></a>
+  <a href="#_b12" class="lightbox trans" id="img_b12"><img src="Nubes/Lenticular_clouds.jpg"><div class="top-left">Nubes lenticulares.</div></a>
 </div>
 
