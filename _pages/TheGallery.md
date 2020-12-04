@@ -53,8 +53,8 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
         <li><a href="#img_b12"><img src="Nubes/Lenticular_clouds.jpg"></a></li>
     </ul>
 
-  <a href="#_b1" class="lightbox trans" id="img_b1"><img src="Nubes/Cu.jpg"></a>
-  <div class="bottom-left">Bottom Left</div>
+  <a href="#_b1" class="lightbox trans" id="img_b1"><img src="Nubes/Cu.jpg">
+  <div class="bottom-left">Bottom Left</div></a>
   <a href="#_b2" class="lightbox trans" id="img_b2"><img src="Nubes/St.jpg"></a>
   <a href="#_b3" class="lightbox trans" id="img_b3"><img src="Nubes/Sc.jpg"></a>
   <a href="#_b4" class="lightbox trans" id="img_b4"><img src="Nubes/Ns-metoffice-UK.jpg"></a>
