@@ -20,7 +20,7 @@
 .top0 ul
 {
     list-style: none;
-    width: 80%;
+    width: 90%;
     height: 100%;
     z-index: 1;
     box-sizing: border-box;
@@ -114,3 +114,4 @@
     -o-transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
 }
+
