@@ -19,7 +19,8 @@ Esta galeria Contiene una serie de imágenes aleatorias para probar este tipo de
         <li><a href="#img_8"><img src="dscn0059-copie.jpg"></a></li>
         <li><a href="#img_9"><img src="20200813_174038.jpg"></a></li>
         <li><a href="#img_10"><img src="Mapa_distro.png"></a></li>
-    </ul>
+        <li><a href="#img_11"><img src="dumont_d_urville_base-03-lg.jpg"></a></li>
+    </ul> 
 
   <a href="#_3" class="lightbox trans" id="img_3"><img src="dscn0205c.jpg"></a>
   <a href="#_4" class="lightbox trans" id="img_4"><img src="iceberg.jpg"></a>
@@ -29,6 +30,7 @@ Esta galeria Contiene una serie de imágenes aleatorias para probar este tipo de
   <a href="#_8" class="lightbox trans" id="img_8"><img src="dscn0059-copie.jpg"></a>
   <a href="#_9" class="lightbox trans" id="img_9"><img src="20200813_174038.jpg"></a>
   <a href="#_10" class="lightbox trans" id="img_10"><img src="Mapa_distro.png"></a>
+  <a href="#_11" class="lightbox trans" id="img_11"><img src="dumont_d_urville_base-03-lg.jpg"></a>
 </div>
 
 *** 
