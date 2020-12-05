@@ -1,144 +1,44 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
-html{
-	align-items: center;
-	background-color: #31353D;
-	display: flex;
-	justify-content: center;
-	padding: 50px;
-	min-height: 100vh;
-}
-
-#Wrapper{
-	align-items: center;
-	background-color: #EEEFF7;
-	display: flex;
-	height: 500px;
-	justify-content: center;
-	width: 1000px;
-}
-
-#Slideshow{
-	align-items: center;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	overflow: hidden;
-	position: relative;
-}
-
-#Slider{
-	border: 20px solid #1C1D21;
-	height: 300px;
-	overflow: hidden;
-	width: 600px;
-}
-
-#Slider img{
-	height: 300px;
-	width: 600px;
-	transition: all 1s;
-}
-
-#Arrows{
-	display: flex;
-	justify-content: space-between;
-	height: 30px;
-	position: absolute;
-	width: 600px;
-}
-
-#Arrows i{
-	background-color: rgba(255, 255, 255, .25);
-	color: #1C1D21;
-	cursor: pointer;
-	height: 30px;
-	padding: 15px;
-
-	transition: background-color .5s, color .5s;
-}
-
-#Arrows i:first-of-type{ 
-	padding-right: 20px;
-}
-
-#Arrows i:last-of-type{ 
-	padding-left: 20px;
-}
-
-#Arrows i:hover{
-	background-color: rgba(28,29,33, .75);
-	color: #EEEFF7;
-}
-
-h1{
-	color: #1C1D21;
-	font-family: righteous;
-	font-size: 2.5em;
-	padding: 20px;
-}
-
-h2{
-	color: #1C1D21;
-	font-family: "Open Sans";
-	font-size: 1.5em;
-	padding: 20px;
-}
-
-#MeLink{
-  background-color: rgba(255,255,255, 0);
-  border: 10px solid #1C1D21;
-  border-radius: 80px;
-  bottom: 20px;
-  height: 80px;
-  overflow: hidden;
-  position: fixed;
-  right: 20px;
-  width: 80px;
-  z-index: 2;
-  
-  transition: background-color .5s;
-}
-
-#MeLink:hover{
-  background-color: rgba(255,255,255, .25);
-}
-
-#Me{
-  border: 10px solid #1C1D21;
-  border-radius: 80px;
-  bottom: 20px;
-  height: 80px;
-  position: fixed;
-  right: 20px;
-  width: 80px;
-  z-index: 1;
-}
-
+.mySlides {display:none;}
 </style>
+<body>
+
+<h2 class="w3-center">Manual Slideshow</h2>
+
+<div class="w3-content w3-display-container">
+  <img class="mySlides" src="img_snowtops.jpg" style="width:100%">
+  <img class="mySlides" src="img_lights.jpg" style="width:100%">
+  <img class="mySlides" src="img_mountains.jpg" style="width:100%">
+  <img class="mySlides" src="img_forest.jpg" style="width:100%">
+
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+</div>
 
 <script>
-$("#Next").click(function(){
-	$("#Slider").append($("#Slider img:first-of-type"));
-});
+var slideIndex = 1;
+showDivs(slideIndex);
 
-$("#Prev").click(function(){
-	$("#Slider").prepend($("#Slider img:last-of-type"));
-});
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
 </script>
 
-
-<section id="Wrapper">
-	<div id="Slideshow">
-		<h1>Manual Slideshow with Navigation Arrows</h1>
-		<div id="Slider">
-			<img src="https://wallpaperscraft.com/image/planet_light_spots_space_86643_1920x1080.jpg"/>
-			<img src="http://www.highreshdwallpapers.com/wp-content/uploads/2014/01/Outer-Space-HD-Wallpaper-Pack-5.jpg"/>
-			<img src="https://images4.alphacoders.com/106/thumb-1920-106826.jpg"/>
-		</div>
-		<div id="Arrows">
-			<i id="Prev" class="fa fa-chevron-left fa-2x" aria-hidden="true"></i>
-			<i id="Next" class="fa fa-chevron-right fa-2x" aria-hidden="true"></i>
-		</div>
-		<h2>Click the arrows to progress the slideshow</h2>
-	</div>
-</section>
+</body>
+</html>
