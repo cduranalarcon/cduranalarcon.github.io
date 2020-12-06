@@ -364,7 +364,32 @@
   {
     opacity: 10;
     background-color: rgba(255,255,255,0.90);  
-}    
+}  
+	
+ .btn_close {
+  position: absolute;
+  top: 10%;
+  left: 85%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgba(155, 155, 155, 0);
+  color: rgba(0, 0, 0, 1);
+  font-size: 30px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  
+  }
+	
+.btn_close:hover 
+  {
+    opacity: 10;
+    background-color: rgba(255,255,255,0.0);  
+    font-size: 35px;
+    font-weight: bold;
+}	
 </style>  
 	  
 	  
@@ -395,6 +420,9 @@
 
 	<button class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_6'">&#10094;</button>	
 	<button class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_4'">&#10095;</button>
+
+	<button class="btn_close" onclick="window.location.href='/#">&#10005;</button>
+	  
 </b>
 	
 	
