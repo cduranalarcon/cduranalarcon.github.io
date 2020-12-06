@@ -114,8 +114,8 @@
     text-align: center;
     top: -0;
     left: 0;
-    background-color: rgba(255,0,0,0.75);
-    z-index: 999;
+    background-color: rgba(0,0,0,0.75);
+    z-index: 888;
     opacity: 0;
     pointer-events: none;
 }
@@ -132,6 +132,11 @@
     -o-transition: all 1s ease;
     -webkit-transition: all 1s ease;
 }
+.lightbox img
+{
+     z-index: 999;	
+}	
+	
 .lightbox:target
 {
     outline: none;
