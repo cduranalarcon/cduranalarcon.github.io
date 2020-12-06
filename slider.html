@@ -121,10 +121,14 @@
 }
 .lightbox img
 {
-    max-width: 90%;
+    max-width: 80%;
     max-height: 80%;
-    position: relative;
-    top: -100%;
+    position: absolute;	
+    top: 50%;
+    left: 50%;   
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);	
+	
     /* Transition */
     transition: all 1s ease;
     -moz-transition: all 1s ease;
