@@ -330,7 +330,7 @@
 .btn_left_hidden {
   position: absolute;
   top: 50%;
-  left: 10%;
+  left: 25%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: rgba(155, 155, 155, 0);
@@ -341,11 +341,13 @@
   cursor: pointer;
   border-radius: 5px;
   text-align: center;
+  height:100%;
+  width:50%;	
 }  
 .btn_right_hidden {
   position: absolute;
   top: 50%;
-  left: 90%;
+  left: 75%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: rgba(155, 155, 155, 0);
@@ -356,6 +358,8 @@
   cursor: pointer;
   border-radius: 5px;
   text-align: center;
+  height:100%;
+  width:50%;	
   }
   
 .btn_left:hover 
@@ -393,8 +397,8 @@
   <b class="lightbox trans" id="img_3">  
 	<img src="gallery/dscn0205c.jpg">
 	
-	<button class="btn_left_hidden" style="height:100%;width:40%;"  onclick="window.location.href='#img_6'">&#10094;</button>
-	<button class="btn_right_hidden" style="height:100%;width:40%;" onclick="window.location.href='#img_4'">&#10095;</button>
+	<button class="btn_left_hidden"  onclick="window.location.href='#img_6'"/>
+	<button class="btn_right_hidden" onclick="window.location.href='#img_4'"/>
 
 	<button class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_6'">&#10094;</button>	
 	<button class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_4'">&#10095;</button>
@@ -403,23 +407,23 @@
 	
   <b class="lightbox trans" id="img_4">
 	<img src="gallery/iceberg.jpg"/>	
-	<button class="btn_left_hidden" style="height:100%;width:40%;"  onclick="window.location.href='#img_3'">&#10094;</button>
-	<button class="btn_right_hidden" style="height:100%;width:40%;" onclick="window.location.href='#img_5'">&#10095;</button>
+	<button class="btn_left_hidden" onclick="window.location.href='#img_3'"/>
+	<button class="btn_right_hidden" onclick="window.location.href='#img_5'"/>
 	<button class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_3'">&#10094;</button>	
 	<button class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_5'">&#10095;</button>
   </b>
 	
   <b class="lightbox trans" id="img_5">
 	<img src="gallery/27ac-5.png"/>	
-	<button class="btn_left_hidden" style="height:100%;width:40%;"  onclick="window.location.href='#img_4'">&#10094;</button>
-	<button class="btn_right_hidden" style="height:100%;width:40%;" onclick="window.location.href='#img_6'">&#10095;</button>
+	<button class="btn_left_hidden"  onclick="window.location.href='#img_4'"/>
+	<button class="btn_right_hidden" onclick="window.location.href='#img_6'"/>
 	<button class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_4'">&#10094;</button>	
 	<button class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_6'">&#10095;</button>
   </b>
   <b class="lightbox trans" id="img_6">
 	<img src="gallery/CimaNorte_TiposDeNubes.jpg"/>	
-	<button class="btn_left_hidden" style="height:100%;width:40%;"  onclick="window.location.href='#img_5'">&#10094;</button>
-	<button class="btn_right_hidden" style="height:100%;width:40%;" onclick="window.location.href='#img_3'">&#10095;</button>
+	<button class="btn_left_hidden" onclick="window.location.href='#img_5'"/>
+	<button class="btn_right_hidden" onclick="window.location.href='#img_3'"/>
 	<button class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_5'">&#10094;</button>	
 	<button class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_3'">&#10095;</button>
   </b>
