@@ -27,6 +27,14 @@
 	alert("Hola Mundo");
 	var str=window.location.href;
 	alert(str);
+	var pieces = str.split("img_");
+	key=pieces[pieces.length-1]; // alerts
+	
+	input.addEventListener("keyup", function(event) {
+		if (event.keyCode === 13) {
+			event.preventDefault();
+			document.getElementById("img_"+key+"_left").click();}});	
+	
 </script>	
 	
 <style>
@@ -424,10 +432,10 @@
 	<button class="btn_left_hidden"  onclick="window.location.href='#img_6'"></button>	
 	<button class="btn_right_hidden" onclick="window.location.href='#img_4'"></button>	
 
-	<button class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_6'">&#10094;</button>	
-	<button class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_4'">&#10095;</button>
+	<button id="img_3_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_6'">&#10094;</button>	
+	<button id="img_3_right" class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_4'">&#10095;</button>
 
-	<button class="btn_close" onclick="window.location.href='#_3'">&#10005;</button>
+	<button id="img_3_close" class="btn_close" onclick="window.location.href='#_3'">&#10005;</button>
 	  
 </b>
 	
