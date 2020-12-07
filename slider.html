@@ -38,6 +38,23 @@
 			
 			document.getElementById("img_"+key+"_left").click();}});	
 	
+
+	const arrowKeys = () => {
+	    window.addEventListener("onkeydown", e => {
+		if (e.key === 37) {
+		    alert("left");
+		    return false
+		} else if (e.key === 39) {
+		    alert("right");;
+		    return false
+		}
+	    });
+	};
+
+	if (keyboard === "true") {
+	   arrowKeys();
+	}	
+	
 </script>	
 	
 <style>
