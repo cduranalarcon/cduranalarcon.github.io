@@ -425,6 +425,20 @@
 	  
 </b>
 	
+<script>
+var input = document.getElementById("myInput");
+input.addEventListener("keyup", function(event) {
+  if (event.keyCode === 13) {
+   event.preventDefault();
+   document.getElementById("myBtn").click();
+  }
+});
+var str=window.location.href
+var pieces = str.split("_");
+key=pieces[pieces.length-1]; // alerts
+document.getElementById(key+"_left").click()
+alert(str);	
+</script>
 	
   <b class="lightbox trans" id="img_4">
 	<img src="gallery/iceberg.jpg"/>	
