@@ -24,20 +24,76 @@ Esta galeria Contiene una serie de imágenes aleatorias para probar este tipo de
 
   <b href="#_3" class="lightbox trans" id="img_3">
     <img src="dscn0205c.jpg">
-	<button class="btn_left_hidden"  onclick="window.location.href='#img_6'"></button>	
+	<button class="btn_left_hidden"  onclick="window.location.href='#img_11'"></button>	
 	<button class="btn_right_hidden" onclick="window.location.href='#img_4'"></button>	
-	<button id="img_3_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_6'">&#10094;</button>	
+	<button id="img_3_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_11'">&#10094;</button>	
 	<button id="img_3_right" class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_4'">&#10095;</button>
 	<button id="img_3_close" class="btn_close" onclick="window.location.href='#_3'">&#10005;</button>    
   </b>
-  <a href="#_4" class="lightbox trans" id="img_4"><img src="iceberg.jpg"></a>
-  <a href="#_5" class="lightbox trans" id="img_5"><img src="27ac-5.png"></a>
-  <a href="#_6" class="lightbox trans" id="img_6"><img src="CimaNorte_TiposDeNubes.jpg"></a>
-  <a href="#_7" class="lightbox trans" id="img_7"><img src="Biggest_hailstone.jpg"></a>
-  <a href="#_8" class="lightbox trans" id="img_8"><img src="dscn0059-copie.jpg"></a>
-  <a href="#_9" class="lightbox trans" id="img_9"><img src="20200813_174038.jpg"></a>
-  <a href="#_10" class="lightbox trans" id="img_10"><img src="Mapa_distro.png"></a>
-  <a href="#_11" class="lightbox trans" id="img_11"><img src="dumont_d_urville_base-03-lg.jpg"></a>
+  <b href="#_4" class="lightbox trans" id="img_4">
+	<img src="iceberg.jpg">
+	<button class="btn_left_hidden"  onclick="window.location.href='#img_3'"></button>	
+	<button class="btn_right_hidden" onclick="window.location.href='#img_5'"></button>	
+	<button id="img_4_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_3'">&#10094;</button>	
+	<button id="img_4_right" class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_5'">&#10095;</button>
+	<button id="img_4_close" class="btn_close" onclick="window.location.href='#_4'">&#10005;</button>    
+  </b>
+  <b href="#_5" class="lightbox trans" id="img_5">
+	<img src="27ac-5.png">
+	<button class="btn_left_hidden"  onclick="window.location.href='#img_4'"></button>	
+	<button class="btn_right_hidden" onclick="window.location.href='#img_6'"></button>	
+	<button id="img_5_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_4'">&#10094;</button>	
+	<button id="img_5_right" class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_6'">&#10095;</button>
+	<button id="img_5_close" class="btn_close" onclick="window.location.href='#_5'">&#10005;</button>    
+  </b>
+  <b href="#_6" class="lightbox trans" id="img_6">
+	<img src="CimaNorte_TiposDeNubes.jpg">
+	<button class="btn_left_hidden"  onclick="window.location.href='#img_5'"></button>	
+	<button class="btn_right_hidden" onclick="window.location.href='#img_7'"></button>	
+	<button id="img_6_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_5'">&#10094;</button>	
+	<button id="img_6_right" class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_7'">&#10095;</button>
+	<button id="img_6_close" class="btn_close" onclick="window.location.href='#_6'">&#10005;</button>    
+  </b>
+  <b href="#_7" class="lightbox trans" id="img_7">
+	<img src="Biggest_hailstone.jpg">
+	<button class="btn_left_hidden"  onclick="window.location.href='#img_6'"></button>	
+	<button class="btn_right_hidden" onclick="window.location.href='#img_8'"></button>	
+	<button id="img_7_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_6'">&#10094;</button>	
+	<button id="img_7_right" class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_8'">&#10095;</button>
+	<button id="img_7_close" class="btn_close" onclick="window.location.href='#_7'">&#10005;</button>    
+  </b>
+  <b href="#_8" class="lightbox trans" id="img_8">
+	<img src="dscn0059-copie.jpg">
+	<button class="btn_left_hidden"  onclick="window.location.href='#img_7'"></button>	
+	<button class="btn_right_hidden" onclick="window.location.href='#img_9'"></button>	
+	<button id="img_8_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_7'">&#10094;</button>	
+	<button id="img_8_right" class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_9'">&#10095;</button>
+	<button id="img_8_close" class="btn_close" onclick="window.location.href='#_8'">&#10005;</button>    
+  </b>
+  <b href="#_9" class="lightbox trans" id="img_9">
+	<img src="20200813_174038.jpg">
+	<button class="btn_left_hidden"  onclick="window.location.href='#img_9'"></button>	
+	<button class="btn_right_hidden" onclick="window.location.href='#img_10'"></button>	
+	<button id="img_9_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_8'">&#10094;</button>	
+	<button id="img_9_right" class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_10'">&#10095;</button>
+	<button id="img_9_close" class="btn_close" onclick="window.location.href='#_9'">&#10005;</button>    
+  </b>
+  <b href="#_10" class="lightbox trans" id="img_10">
+	<img src="Mapa_distro.png">
+	<button class="btn_left_hidden"  onclick="window.location.href='#img_9'"></button>	
+	<button class="btn_right_hidden" onclick="window.location.href='#img_11'"></button>	
+	<button id="img_10_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_9'">&#10094;</button>	
+	<button id="img_10_right" class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_11'">&#10095;</button>
+	<button id="img_10_close" class="btn_close" onclick="window.location.href='#_10'">&#10005;</button>    
+  </b>
+  <b href="#_11" class="lightbox trans" id="img_11">
+	<img src="dumont_d_urville_base-03-lg.jpg">
+	<button class="btn_left_hidden"  onclick="window.location.href='#img_10'"></button>	
+	<button class="btn_right_hidden" onclick="window.location.href='#img_3'"></button>	
+	<button id="img_11_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_10'">&#10094;</button>	
+	<button id="img_11_right" class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_3'">&#10095;</button>
+	<button id="img_11_close" class="btn_close" onclick="window.location.href='#_11'">&#10005;</button>    
+  </b>
 </div>
 
 *** 
