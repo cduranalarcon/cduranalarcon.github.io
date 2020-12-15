@@ -119,8 +119,8 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
     </ul>
 
   <b href="#_b1" class="lightbox trans" id="img_b1">
-    <img src="Nubes/Cu.jpg">
     <div class="top-left">Cumulus (Cu).</div>
+    <img src="Nubes/Cu.jpg">
     <button class="btn_left_hidden"  onclick="window.location.href='#img_b12'"></button>	
     <button class="btn_right_hidden" onclick="window.location.href='#img_b2'"></button>	
     <button id="img_b1_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_b12'">&#10094;</button>	
