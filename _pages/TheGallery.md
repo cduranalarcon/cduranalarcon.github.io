@@ -22,7 +22,14 @@ Esta galeria Contiene una serie de imágenes aleatorias para probar este tipo de
         <li><a href="#img_11"><img src="dumont_d_urville_base-03-lg.jpg"></a></li>
     </ul> 
 
-  <a href="#_3" class="lightbox trans" id="img_3"><img src="dscn0205c.jpg"></a>
+  <b href="#_3" class="lightbox trans" id="img_3">
+    <img src="dscn0205c.jpg">
+	<button class="btn_left_hidden"  onclick="window.location.href='#img_6'"></button>	
+	<button class="btn_right_hidden" onclick="window.location.href='#img_4'"></button>	
+	<button id="img_3_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_6'">&#10094;</button>	
+	<button id="img_3_right" class="btn_right"  style="border-radius: 50%;" onclick="window.location.href='#img_4'">&#10095;</button>
+	<button id="img_3_close" class="btn_close" onclick="window.location.href='#_3'">&#10005;</button>    
+  </b>
   <a href="#_4" class="lightbox trans" id="img_4"><img src="iceberg.jpg"></a>
   <a href="#_5" class="lightbox trans" id="img_5"><img src="27ac-5.png"></a>
   <a href="#_6" class="lightbox trans" id="img_6"><img src="CimaNorte_TiposDeNubes.jpg"></a>
