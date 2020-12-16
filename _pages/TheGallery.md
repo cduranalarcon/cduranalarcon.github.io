@@ -228,11 +228,12 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
   </b>
 </div>
 
+
 ***
  
 # Tipos de nubes
  
-['Cumulus (Cu).', 'Stratus (St).', 'Stratocumulus (Sc).', 'Nimbus (Ns).', 'Altocumulus (Ac).', 'Altostratus (As).', 'Cirrus (Ci).', 'Cirrostratus (Cs).', '>Cirrocumulus (Cc).', 'Cumulonimbus (Cb).', 'Nubes mammatus.', 'Nubes lenticulares.']
+En esta galería se observan algunos ejemplos de las nubes más conocidas.
  
 <div class="top0">
     <ul>
@@ -252,9 +253,9 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
   <b href="#_c1" class="lightbox trans" id="img_c1">
     <div class="top-left">Cumulus (Cu).</div>
     <img src="Nubes/Cu.jpg">
-    <button class="btn_left_hidden" onclick="window.location.href='#img_c1'"></button>
-    <button class="btn_right_hidden" onclick="window.location.href=='#img_c2'"></button>
-    <button id="img_c1_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_c1'">&#10094;</button>
+    <button class="btn_left_hidden" onclick="window.location.href='#img_c12'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_c2'"></button>
+    <button id="img_c1_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_c12'">&#10094;</button>
     <button id="img_c1_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_c2'">&#10095;</button>
     <button id="img_c1_close" class="btn_close" onclick="window.location.href='#_c1'">&#10005;</button>
   </b>
@@ -262,7 +263,7 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
     <div class="top-left">Stratus (St).</div>
     <img src="Nubes/St.jpg">
     <button class="btn_left_hidden" onclick="window.location.href='#img_c1'"></button>
-    <button class="btn_right_hidden" onclick="window.location.href=='#img_c3'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_c3'"></button>
     <button id="img_c2_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_c1'">&#10094;</button>
     <button id="img_c2_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_c3'">&#10095;</button>
     <button id="img_c2_close" class="btn_close" onclick="window.location.href='#_c2'">&#10005;</button>
@@ -271,7 +272,7 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
     <div class="top-left">Stratocumulus (Sc).</div>
     <img src="Nubes/Sc.jpg">
     <button class="btn_left_hidden" onclick="window.location.href='#img_c2'"></button>
-    <button class="btn_right_hidden" onclick="window.location.href=='#img_c4'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_c4'"></button>
     <button id="img_c3_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_c2'">&#10094;</button>
     <button id="img_c3_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_c4'">&#10095;</button>
     <button id="img_c3_close" class="btn_close" onclick="window.location.href='#_c3'">&#10005;</button>
@@ -280,7 +281,7 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
     <div class="top-left">Nimbus (Ns).</div>
     <img src="Nubes/Ns-metoffice-UK.jpg">
     <button class="btn_left_hidden" onclick="window.location.href='#img_c3'"></button>
-    <button class="btn_right_hidden" onclick="window.location.href=='#img_c5'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_c5'"></button>
     <button id="img_c4_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_c3'">&#10094;</button>
     <button id="img_c4_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_c5'">&#10095;</button>
     <button id="img_c4_close" class="btn_close" onclick="window.location.href='#_c4'">&#10005;</button>
@@ -289,7 +290,7 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
     <div class="top-left">Altocumulus (Ac).</div>
     <img src="Nubes/Ac.jpg">
     <button class="btn_left_hidden" onclick="window.location.href='#img_c4'"></button>
-    <button class="btn_right_hidden" onclick="window.location.href=='#img_c6'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_c6'"></button>
     <button id="img_c5_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_c4'">&#10094;</button>
     <button id="img_c5_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_c6'">&#10095;</button>
     <button id="img_c5_close" class="btn_close" onclick="window.location.href='#_c5'">&#10005;</button>
@@ -298,7 +299,7 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
     <div class="top-left">Altostratus (As).</div>
     <img src="Nubes/As.jpg">
     <button class="btn_left_hidden" onclick="window.location.href='#img_c5'"></button>
-    <button class="btn_right_hidden" onclick="window.location.href=='#img_c7'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_c7'"></button>
     <button id="img_c6_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_c5'">&#10094;</button>
     <button id="img_c6_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_c7'">&#10095;</button>
     <button id="img_c6_close" class="btn_close" onclick="window.location.href='#_c6'">&#10005;</button>
@@ -307,7 +308,7 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
     <div class="top-left">Cirrus (Ci).</div>
     <img src="Nubes/Ci-metoffice-UK.jpg">
     <button class="btn_left_hidden" onclick="window.location.href='#img_c6'"></button>
-    <button class="btn_right_hidden" onclick="window.location.href=='#img_c8'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_c8'"></button>
     <button id="img_c7_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_c6'">&#10094;</button>
     <button id="img_c7_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_c8'">&#10095;</button>
     <button id="img_c7_close" class="btn_close" onclick="window.location.href='#_c7'">&#10005;</button>
@@ -316,7 +317,7 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
     <div class="top-left">Cirrostratus (Cs).</div>
     <img src="Nubes/Cs-MeteoFrance.jpg">
     <button class="btn_left_hidden" onclick="window.location.href='#img_c7'"></button>
-    <button class="btn_right_hidden" onclick="window.location.href=='#img_c9'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_c9'"></button>
     <button id="img_c8_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_c7'">&#10094;</button>
     <button id="img_c8_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_c9'">&#10095;</button>
     <button id="img_c8_close" class="btn_close" onclick="window.location.href='#_c8'">&#10005;</button>
@@ -325,7 +326,7 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
     <div class="top-left">>Cirrocumulus (Cc).</div>
     <img src="Nubes/Cc-MeteoFrance.jpg">
     <button class="btn_left_hidden" onclick="window.location.href='#img_c8'"></button>
-    <button class="btn_right_hidden" onclick="window.location.href=='#img_c10'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_c10'"></button>
     <button id="img_c9_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_c8'">&#10094;</button>
     <button id="img_c9_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_c10'">&#10095;</button>
     <button id="img_c9_close" class="btn_close" onclick="window.location.href='#_c9'">&#10005;</button>
@@ -334,7 +335,7 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
     <div class="top-left">Cumulonimbus (Cb).</div>
     <img src="Nubes/Cb.jpg">
     <button class="btn_left_hidden" onclick="window.location.href='#img_c9'"></button>
-    <button class="btn_right_hidden" onclick="window.location.href=='#img_c11'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_c11'"></button>
     <button id="img_c10_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_c9'">&#10094;</button>
     <button id="img_c10_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_c11'">&#10095;</button>
     <button id="img_c10_close" class="btn_close" onclick="window.location.href='#_c10'">&#10005;</button>
@@ -343,7 +344,7 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
     <div class="top-left">Nubes mammatus.</div>
     <img src="Nubes/mammatus-meteoffice-UK.jpg">
     <button class="btn_left_hidden" onclick="window.location.href='#img_c10'"></button>
-    <button class="btn_right_hidden" onclick="window.location.href=='#img_c12'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_c12'"></button>
     <button id="img_c11_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_c10'">&#10094;</button>
     <button id="img_c11_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_c12'">&#10095;</button>
     <button id="img_c11_close" class="btn_close" onclick="window.location.href='#_c11'">&#10005;</button>
@@ -352,10 +353,9 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
     <div class="top-left">Nubes lenticulares.</div>
     <img src="Nubes/Lenticular_clouds.jpg">
     <button class="btn_left_hidden" onclick="window.location.href='#img_c11'"></button>
-    <button class="btn_right_hidden" onclick="window.location.href=='#img_c1'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_c1'"></button>
     <button id="img_c12_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_c11'">&#10094;</button>
     <button id="img_c12_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_c1'">&#10095;</button>
     <button id="img_c12_close" class="btn_close" onclick="window.location.href='#_c12'">&#10005;</button>
   </b>
 </div>
-
