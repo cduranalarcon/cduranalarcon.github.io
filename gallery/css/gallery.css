@@ -25,12 +25,12 @@
 .top0
 {
     display: flex;
-    width: 80vw;
+    width: 70vw;
     height: 35vw;
-    margin-top: 5vh;
+    margin-top: 0vh;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 50vh;
+    margin-bottom: 15vw;
 }
 .top0 ul
 {
