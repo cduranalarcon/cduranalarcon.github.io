@@ -358,3 +358,94 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
     <button id="img_c12_close" class="btn_close" onclick="window.location.href='#_c12'">&#10005;</button>
   </b>
 </div>
+
+***
+ 
+# Tipos de cristales de hielo
+ 
+En esta galería se observan algunos ejemplos cristales de hielo.
+ 
+<div class="top0"  style="margin-bottom: 0vw;">
+    <ul>
+        <li><a href="#img_cristales1"><img src="http://www.snowcrystals.com/guide/stellardendrites1.jpg"></a></li>
+        <li><a href="#img_cristales2"><img src="http://www.snowcrystals.com/guide/columns.jpg"></a></li>
+        <li><a href="#img_cristales3"><img src="http://www.snowcrystals.com/guide/cappedcolumns.jpg"></a></li>
+        <li><a href="#img_cristales4"><img src="http://www.snowcrystals.com/guide/fernlike.jpg"></a></li>
+        <li><a href="#img_cristales5"><img src="http://www.snowcrystals.com/guide/diamonddust.jpg"></a></li>
+        <li><a href="#img_cristales6"><img src="http://www.snowcrystals.com/guide/triangular.jpg"></a></li>
+        <li><a href="#img_cristales7"><img src="http://www.snowcrystals.com/guide/twelve.jpg"></a></li>
+        <li><a href="#img_cristales8"><img src="http://www.snowcrystals.com/guide/rimed.jpg"></a></li>
+    </ul>
+  <b href="#_cristales1" class="lightbox trans" id="img_cristales1">
+    <div class="top-left">Dendritas estelares.</div>
+    <img src="http://www.snowcrystals.com/guide/stellardendrites1.jpg">
+    <button class="btn_left_hidden" onclick="window.location.href='#img_cristales8'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_cristales2'"></button>
+    <button id="img_cristales1_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_cristales8'">&#10094;</button>
+    <button id="img_cristales1_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_cristales2'">&#10095;</button>
+    <button id="img_cristales1_close" class="btn_close" onclick="window.location.href='#_cristales1'">&#10005;</button>
+  </b>
+  <b href="#_cristales2" class="lightbox trans" id="img_cristales2">
+    <div class="top-left">Columnas y agujas.</div>
+    <img src="http://www.snowcrystals.com/guide/columns.jpg">
+    <button class="btn_left_hidden" onclick="window.location.href='#img_cristales1'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_cristales3'"></button>
+    <button id="img_cristales2_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_cristales1'">&#10094;</button>
+    <button id="img_cristales2_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_cristales3'">&#10095;</button>
+    <button id="img_cristales2_close" class="btn_close" onclick="window.location.href='#_cristales2'">&#10005;</button>
+  </b>
+  <b href="#_cristales3" class="lightbox trans" id="img_cristales3">
+    <div class="top-left">Columnas con tapa</div>
+    <img src="http://www.snowcrystals.com/guide/cappedcolumns.jpg">
+    <button class="btn_left_hidden" onclick="window.location.href='#img_cristales2'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_cristales4'"></button>
+    <button id="img_cristales3_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_cristales2'">&#10094;</button>
+    <button id="img_cristales3_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_cristales4'">&#10095;</button>
+    <button id="img_cristales3_close" class="btn_close" onclick="window.location.href='#_cristales3'">&#10005;</button>
+  </b>
+  <b href="#_cristales4" class="lightbox trans" id="img_cristales4">
+    <div class="top-left">Dendritas estelares con forma de Helecho</div>
+    <img src="http://www.snowcrystals.com/guide/fernlike.jpg">
+    <button class="btn_left_hidden" onclick="window.location.href='#img_cristales3'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_cristales5'"></button>
+    <button id="img_cristales4_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_cristales3'">&#10094;</button>
+    <button id="img_cristales4_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_cristales5'">&#10095;</button>
+    <button id="img_cristales4_close" class="btn_close" onclick="window.location.href='#_cristales4'">&#10005;</button>
+  </b>
+  <b href="#_cristales5" class="lightbox trans" id="img_cristales5">
+    <div class="top-left">Cristales de polvo de diamantes</div>
+    <img src="http://www.snowcrystals.com/guide/diamonddust.jpg">
+    <button class="btn_left_hidden" onclick="window.location.href='#img_cristales4'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_cristales6'"></button>
+    <button id="img_cristales5_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_cristales4'">&#10094;</button>
+    <button id="img_cristales5_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_cristales6'">&#10095;</button>
+    <button id="img_cristales5_close" class="btn_close" onclick="window.location.href='#_cristales5'">&#10005;</button>
+  </b>
+  <b href="#_cristales6" class="lightbox trans" id="img_cristales6">
+    <div class="top-left">Cristales triangulares</div>
+    <img src="http://www.snowcrystals.com/guide/triangular.jpg">
+    <button class="btn_left_hidden" onclick="window.location.href='#img_cristales5'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_cristales7'"></button>
+    <button id="img_cristales6_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_cristales5'">&#10094;</button>
+    <button id="img_cristales6_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_cristales7'">&#10095;</button>
+    <button id="img_cristales6_close" class="btn_close" onclick="window.location.href='#_cristales6'">&#10005;</button>
+  </b>
+  <b href="#_cristales7" class="lightbox trans" id="img_cristales7">
+    <div class="top-left">Copos de nieve de doce brazos</div>
+    <img src="http://www.snowcrystals.com/guide/twelve.jpg">
+    <button class="btn_left_hidden" onclick="window.location.href='#img_cristales6'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_cristales8'"></button>
+    <button id="img_cristales7_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_cristales6'">&#10094;</button>
+    <button id="img_cristales7_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_cristales8'">&#10095;</button>
+    <button id="img_cristales7_close" class="btn_close" onclick="window.location.href='#_cristales7'">&#10005;</button>
+  </b>
+  <b href="#_cristales8" class="lightbox trans" id="img_cristales8">
+    <div class="top-left">Copos de nieve cencellados y graupel</div>
+    <img src="http://www.snowcrystals.com/guide/rimed.jpg">
+    <button class="btn_left_hidden" onclick="window.location.href='#img_cristales7'"></button>
+    <button class="btn_right_hidden" onclick="window.location.href='#img_cristales1'"></button>
+    <button id="img_cristales8_left" class="btn_left" style="border-radius: 50%;"  onclick="window.location.href='#img_cristales7'">&#10094;</button>
+    <button id="img_cristales8_right" class="btn_right" style="border-radius: 50%;" onclick="window.location.href='#img_cristales1'">&#10095;</button>
+    <button id="img_cristales8_close" class="btn_close" onclick="window.location.href='#_cristales8'">&#10005;</button>
+  </b>
+</div>
