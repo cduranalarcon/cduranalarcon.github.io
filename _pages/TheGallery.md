@@ -363,9 +363,9 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
  
 # Tipos de cristales de hielo
  
-En esta galería se observan algunos ejemplos cristales de hielo.
+En esta galería se observan algunos ejemplos cristales de hielo. Puedes encontrar éstas y más fotos de cristales de hielo en www.snowcrystals.com.
  
-<div class="top0"  style="margin-bottom: 0vw;">
+<div class="top0"  style="height :24vw;margin-bottom: 0vw;">
     <ul>
         <li><a href="#img_cristales1"><img src="http://www.snowcrystals.com/guide/stellardendrites1.jpg"></a></li>
         <li><a href="#img_cristales2"><img src="http://www.snowcrystals.com/guide/columns.jpg"></a></li>
