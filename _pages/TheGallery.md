@@ -9,7 +9,7 @@ image:
 
 Esta galeria Contiene una serie de imágenes aleatorias para probar este tipo de galerías.
 
-<div class="top0">
+<div class="top0" style="margin-bottom: 0vw;">
     <ul>
         <li><a href="#img_3"><img src="dscn0205c.jpg"></a></li>
         <li><a href="#img_4"><img src="iceberg.jpg"></a></li>
@@ -102,7 +102,7 @@ Esta galeria Contiene una serie de imágenes aleatorias para probar este tipo de
 
 En esta galería se observan algunos ejemplos de las nubes más conocidas.
 
-<div class="top0">
+<div class="top0" style="margin-bottom: 15vw;">
     <ul>
         <li><a href="#img_b1"><img src="Nubes/Cu.jpg"></a></li>
         <li><a href="#img_b2"><img src="Nubes/St.jpg"></a></li>
@@ -234,7 +234,7 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
 
 En esta galería se observan algunos ejemplos de las nubes más conocidas.
 
-<div class="top0">
+<div class="top0" style="margin-bottom: 15vw;">
     <ul>
         <li><a href="#img_c1"><img src="Nubes/Cu.jpg"></a></li>
         <li><a href="#img_c2"><img src="Nubes/St.jpg"></a></li>
