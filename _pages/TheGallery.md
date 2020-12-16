@@ -228,13 +228,13 @@ En esta galería se observan algunos ejemplos de las nubes más conocidas.
   </b>
 </div>
 
-*** 
-
-# Tipos de nubes 2
-
+***
+ 
+# Tipos de nubes
+ 
 En esta galería se observan algunos ejemplos de las nubes más conocidas.
-
-<div class="top0" style="margin-bottom: 15vw;">
+ 
+<div class="top0"  style="margin-bottom: 15vw;">
     <ul>
         <li><a href="#img_c1"><img src="Nubes/Cu.jpg"></a></li>
         <li><a href="#img_c2"><img src="Nubes/St.jpg"></a></li>
