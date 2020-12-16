@@ -3,6 +3,7 @@
   top: 16px;
   left: 16px;
   font-size: 20;
+  color: yellow;	
 }
 
 .bottom-left 
@@ -10,6 +11,7 @@
     position: absolute;
     bottom: 16px;
     left: 16px;
+    color: yellow;	
 }
 
 .trans
@@ -24,7 +26,7 @@
 {
     display: flex;
     width: 80vw;
-    height: 35vw;
+    height: auto;
     margin-top: auto;
     margin-left: auto;
     margin-right: auto;
