@@ -3,7 +3,7 @@ layout: post
 title:  ATLACE project
 date:   2020-12-29 16:00:00 +0200
 image:  the-ship-in-front-of-siple-volcano.jpg
-tags:   Polar Meteorology Clouds Precipitation Aerosols Atmospheric Rivers
+tags:   Antarctica Clouds Precipitation Aerosols Atmospheric-Rivers
 ---
 
 ## introducción
