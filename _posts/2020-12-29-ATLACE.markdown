@@ -1,0 +1,57 @@
+---
+layout: post
+title:  ATLACE project
+date:   2020-12-29 16:00:00 +0200
+image:  the-ship-in-front-of-siple-volcano.jpg
+tags:   Meteorology Precipitation
+---
+
+## introducción
+
+**ATLACE project**: Atlantic interactions via atmospheric water cycle: exploiting a unique dataset from the Antarctic Circumnavigation Expedition for better understanding of clouds and precipitation.
+
+offers progress in quantitative understanding of precipitation mechanisms focusing on the two edges of the Atlantic Ocean – the Southern Ocean/Antarctica and Portugal. While far from each other, the regions are linked by common mechanisms responsible for the intense precipitation formation, including the important role of the poleward transport of moisture from lower latitudes, impact of aerosols on cloud-precipitation properties, and the significance of mixed-phase clouds for intense precipitation formation.
+
+**ES**: Interacciones del ATLántico a través del ciclo del agua atmosférica: explotación de un conjunto de datos único de la Expedición de Circunnavegación Antártica para una mejor comprensión de las nubes y la precipitación.
+
+## Context
+
+Future predicted sea level rise and increase in extreme weather events will have significant impacts on society. Prediction of these impacts strongly depends on a correct understanding of precipitation as part of the enhanced global water cycle.
+
+## Objetivos
+
+to gain unprecedented insight into the precipitation formation processes in the context of the global atmospheric water cycle. The focus of ATLACE is specifically over the regions undergoing
+significant changes in precipitation with important impacts – marked freshening in the southern Atlantic Ocean sector and anomalous snow accumulation in the Atlantic sector of the
+East Antarctic ice sheet compensating for the entire ice sheet mass loss from ice melting and contribution to the global sea level rise. Further, ATLACE aims to extend the new
+process understanding of intense moisture transport, combined with aerosol-cloud interactions, and their effect on precipitation formation
+
+## Intrumentos
+
+## Materiales y metodología
+
+During ACE multi-sensor observations of precipitation were conducted together with observations of aerosols, cloud properties, meteorological, and vertical atmospheric profiling
+with radiosondes. Quantification of precipitation together with aerosols, cloud and radiosonde observations has never been achieved over this data-sparse region and moreover in a
+single circumpolar snapshot. Lack of observations of aerosols, clouds and precipitation is shared by the Southern Ocean/Antarctica and Portugal. Within ATLACE the experience in
+extreme weather observations gained in Antarctica will be also applied for event measurements during atmospheric rivers in Portugal.
+ATLACE will combine ACE observations together with novel modeling techniques to understand aerosol-cloud-precipitation processes in connection to extratropical cyclones and their
+most extreme manifestation - atmospheric rivers. Atmospheric rivers provide an efficient way for the atmosphere to rapidly transport large amounts of subtropical moisture excess
+poleward. These events are most probably also characterised by different chemical composition and amounts of aerosols brought from the distant regions. Our modeling studies will be done by means of the WRF-CHIMERE modeling system, where cloud and precipitation formation will be studied in connection to the amounts and chemical properties of aerosols serving as ice and cloud condensation nuclei.
+ 
+## Financiamiento y colaboración
+ATLACE project is a partnership between UA and Scripps Institution of Oceanography continuing building collaboration on the water cycle in the Polar Regions and Portugal. The PI Irina Gorodetskaya (UA) is a leading scientist in the Antarctic water cycle and precipitation combining observations and regional climate modeling. Alexandra Monteiro and Carla Gama (UA) bring strong expertise in aerosol modeling in Portugal and will extend this knowledge in application to the Polar Regions. F. Martin Ralph (Scripps) is the Director of the Center for Western Weather and Water Extremes (CW3E) and a world leader on the research of the atmospheric rivers and precipitation extremes particularly from the observations perspective. Several international collaborators will contribute to the project as the project consultants: Katherine Leonard (U Colorado, USA) - PI of the ACE project on precipitation observations; Michael Lehning (EPFL, Switzerland) - co-PI of the ACE project on precipitation with high expertise in snow process modeling; Julia Schmale (PSI, Switzerland) - PI of the ACE aerosol measurements project; and Yvonne Weber (EPFL) - linking cryospheric research with a beautiful and strong artistic message. The strong outreach component of ATLACE will bring to the attention of the general public, and especially the young generation in Portugal, the important role of both Antarctica and Portugal in the global climate and water cycle regulation.
+ 
+ 
+## Expected results and impact
+
+
+ATLACE will improve our understanding of intense precipitation formation including aerosol-cloud-precipitation interactions focusing on a particular regime - the atmospheric rivers - over Southern Ocean/Antarctica and Portugal regions. The results will be shared with the scientific community via ten peer-reviewed publications in international journals and several international meetings. In order to further promote sharing knowledge and new data usage with the scientific community, we will construct detailed catalogues of aerosol, cloud and precipitation properties for the atmospheric rivers in the Atlantic sector of Antarctica/Southern Ocean and Portugal made available via open access as an online archive. ATLACE will also deliver an AR algorithm adapted specifically for the Polar Regions and new methodology of improved estimates of precipitation over the Southern Ocean/Antarctica. Finally, ATLACE has a strong outreach component including an exposition of the Antarctic snowflakes, interactive presentations, website and science animation that will bring to the attention of the general public, and especially the young generation in Portugal, the important role of both Antarctica and Portugal in the global climate and water cycle regulation.
+ 
+ 
+### Titulo 3er ornden
+
+dfldfnsld qsdlf nqsljkdf nqslkd n
+
+#### Otro titulo
+ 
+ qsdflqsd,nf lsdkfn sld fksdn fqdlnqe fqpefl  qlsdnf qljn
+
