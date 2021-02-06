@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Glaciares de los Alpes y polvo del Sahara
+title:  Polvo del Sahara en los Alpes, ¿qué pasa con la nieve y los glaciares?
 date:   2021-02-07 12:01:05 +0200
 image:  dust_sahara/no-dust_yes-dust.jpg
 tags:   Aerosoles
