@@ -2,7 +2,7 @@
 layout: post
 title:  Glaciares de los Alpes y polvo del Sahara
 date:   2021-02-07 12:01:05 +0200
-image:  dust_sahara/2021020512-3H_SDSWAS_NMMB-BSC-v2_OPER-OD550_DUST--loop-.gif
+image:  dust_sahara/Sahara_dust.png
 tags:   Aerosoles
 ---
 
