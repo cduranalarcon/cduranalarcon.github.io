@@ -1,4 +1,10 @@
-### Polvo del sahara 
+---
+layout: post
+title:  Glaciares de los Alpes y polvo del Sahara
+date:   2020-12-01 15:01:35 +0200
+image:  20200813_174038.jpg
+tags:   Aerosoles
+---
 
 La manana del 6 de febrero de 2021, una particular luz amarillenta atravesaba las cortinas. 
 
