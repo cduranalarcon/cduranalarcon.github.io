@@ -100,4 +100,4 @@ También me gustaría saber sobre tu experiencia ¿Has visto tormentas de graniz
 
 Muchas gracias y hasta el siguiente post.
 
-Por Claudio DUrán-Alarcón
+Por Claudio Durán-Alarcón
