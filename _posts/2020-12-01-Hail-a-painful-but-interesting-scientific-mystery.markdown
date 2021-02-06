@@ -22,24 +22,21 @@ Los registros históricos de granizos más grandes se encuentran en Europa y Est
 *Fig.2 - Enorme granizo,Vivian, South Dakota, 23/07/2010. La medición está en pulgadas. Fuente: 
 [Severe Weather Europe](https://www.severe-weather.eu/theory/hail-world-records-the-biggest-heaviest-and-deadliest-hail/ "Severe Weather Europe").*
 
-Agriculture is strongly affected when intense hail events occur. Precipitations of small hailstones (~6 mm) are sufficient for a complete loss of production of some types of crops. Larger hailstones (~25 mm) can cause damage to cars and buildings. The costs in damages due to hailstorms amount to billions of dollars annually in the most affected countries.
+La agricultura se ve fuertemente afectada cuando ocurren eventos intensos de granizo. Precipitaciones de granizos de pequeño tamaño (~6 mm) son suficientes para una pérdida completa de la producción de algunos tipos de cultivo. Granizos de mayor envergadura (~ 25 mm) pueden causar daños en automóviles y edificios. Los costos en daños debido a granizadas ascienden a miles de millones de dólares anuales en los países más afectados.   
 
-But without a doubt the worst possible impact is the loss of human life. Around the world, there are numerous cases in which intense hailstorms have ended in fatal consequences. One emblematic case occurred in La Paz, Bolivia, during a very intense hailstorm in 2002, lasting just over an hour, where the combination of hail, rain and ground conditions caused a landslide that cost the lives of more than 60 people.
+Pero sin lugar a dudas el peor impacto posible es la pérdida de vidas humanas. Alrededor del mundo, existen numerosos casos en los que granizadas intensas han terminado en consecuencias fatales. Un caso emblemático ocurrió en La Paz, Bolivia, durante una granizada muy intensa el 2002, de poco más de una hora de duración, en donde la combinación del granizo, la lluvia y las condiciones del terreno originaron un deslizamiento de tierra que costó la vida de más de 60 personas.
 
+## ¿Qué son exactamente los granizos, cómo se forman  y qué condiciones ambientales necesitan?
 
-## What exactly are hailstones, how do they form and what environmental conditions do they need?
-
-According to the World Meteorological Organization, a hail is basically a piece of ice with a diameter greater than 5 mm that falls from a convective cloud of great vertical development (Cumulonimbus).
-Tipos de nubes
+De acuerdo a la Organización Meteorológica Mundial, un granizo es básicamente un pedazo de hielo con un diámetro mayor a 5 mm que cae desde una nube convectiva de gran desarrollo vertical (Cumulonimbus).
 
 ![]({{ site.baseurl }}/images/CimaNorte_TiposDeNubes.jpg)
-*Fig.3 - Cloud types.*
+*Fig.3 - Tipos de nubes.*
 
-In order to form hail, several elements and conditions need to be present in the same period of time and space. First of all, there must be particles less than 5 mm in diameter called hail embryos (or seeds), which can be ice crystals that have grown by riming, that is, crystals that have increased in size thanks to thousands of small water droplets that have frozen around the crystal. This type of embryo is regularly called graupel in scientific literature and in the media. In the following figure, two ice crystals can be seen with very low (A) and high (B) levels of riming. Hail embryos can also be frozen water droplets and less frequently other particles of animal or vegetable origin.
-unrimed/rimed
+Para formar los granizos, se necesita que concurran varios elementos y condiciones en el mismo periodo de tiempo y espacio. En primer lugar, deben existir partículas de menos de 5 mm de diámetro llamadas embriones de granizo (o semillas), que pueden ser cristales de hielo que han crecido por cencellamiento, es decir cristales que han aumentado de tamaño gracias a miles de pequeñas gotitas de agua que se han congelado en torno al cristal. Este tipo de embriones son regularmente llamados graupel o aguanieve (porque se derriten al llegar al suelo) en la literatura científica y en medios de comunicación. En la figura siguiente se aprecian dos cristales de hielo con muy bajo (A) y alto (B) nivel de cencellamiento. Los embriones de granizo también pueden ser gotas de agua congeladas y menos frecuentemente otras partículas de origen animal o vegetal. 
 
 ![]({{ site.baseurl }}/images/27ac-5.png)
-*Fig.4 - Riming examples. Crystals with A: Very low level and B: High level of ringing. Figures from Antarctic crystals, obtained from the APRES3 project.*
+*Fig.4 - Ejemplos de cencellamiento. A: Muy bajo nivel, B: Alto nivel de cencellamiento. Figuras de cristales de la Antártida, obtenidas del proyecto [APRES3] (https://apres3.osug.fr/?lang=fr).* 
 
 A second element for the formation of hail is the presence of water vapor that gives life to the whole system, it is responsible for the formation of the cumulonimbus, the hail embryos and a third very important ingredient, small drops of supercooled liquid water, which are responsible for feeding the embryos to grow healthy and strong, managing to fall to earth without melting in the attempt. These tiny droplets are formed when strong upward air currents (updraft, typical in convective clouds due to their instability) displace water vapor to the upper part of the cloud, where the temperature is low enough to condense the vapor into liquid droplets. In the absence of solid particles such as pollen, salt, dust or other aerosols, called ice nucleus, these water droplets remain liquid despite temperatures below freezing point (0°C), hence the name "supercooled". As you might imagine, staying liquid at such low temperatures is not a very stable situation, so any disturbance can change that state.
 
