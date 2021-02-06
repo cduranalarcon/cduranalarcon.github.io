@@ -1,25 +1,26 @@
 ---
 layout: post
-title:  Hail, a painful but interesting scientific mystery
+title:  El Granizo: un doloroso pero interesante rompecabezas científico
 date:   2020-12-01 15:01:35 +0200
 image:  20200813_174038.jpg
-tags:   Meteorology Precipitation
+tags:   Meteorología Precipitación
 ---
-The idea of writing this article literally fell from the sky, straight into my head, when a sudden hailstorm hit those of us who were watching a cycling race, at a mountain pass called Col de Porte, located in the French Alps. After some lightning and thunder, the storm quickly became very intense, so fast that there was practically no time to seek shelter. For a period of several minutes, hailstones of sizes reaching 2 cm in diameter fell (see figure below), which caused a lot of pain when they hit the body. The worst part was taken by the cyclists who still had to cross the finish line and could not protect their backs at that time.
+La idea de escribir este artículo literalmente me cayó del cielo, directo en la cabeza, cuando una repentina tormenta de granizos azotó a los que presenciamos una carrera de ciclistas, en un paso de montaña llamado Col de Porte, ubicada en los Alpes franceses. Después de algunos rayos y truenos, la tormenta se tornó rápidamente muy intensa, tan rápido que prácticamente no hubo tiempo para buscar refugio. Por un lapso de varios minutos, cayeron granizos de tamaños que alcanzaban los 2 cm de diámetro (ver figura más abajo), los cuales causaban bastante dolor al impactar el cuerpo. La peor parte se la llevaron los ciclistas que aún tenían que cruzar la línea de meta y no podían protegerse la espalda en ese momento.
 
 ![]({{ site.baseurl }}/images/Hail_ScaleBar_ColdePorte.png)
-*Fig.1 - Example of hail found in Col de Porte.*
+*Fig.1 - Ejemplo de granizo encontrado en Col de Porte.*
 
-This hailstorm, which barely comes close to the most extreme cases that usually appear in the news, reminded me how important this type of meteorological phenomenon is, especially because of the damage it can cause to people and infrastructure.
+Esta granizada, que apenas se aproxima a los casos más extremos que suelen aparecer en las noticias, me hizo recordar la importancia de este tipo de fenómenos meteorológicos, especialmente por los daños que pueden llegar a causar a la gente y la infraestructura.
 
-When we think about hailstones, key questions often come to mind associated with how, when and where they are originated, how big these ice balls can be and how much damage they can cause. Some other less frequent questions are related to what are the methods to detect hail, how can we predict in advance the occurrence of hailstorms and finally what are the main challenges in understanding this phenomenon, especially in a climate change scenario. I will now address these questions in simple words, based on the latest international scientific literature.
+Cuando pensamos en granizos, suelen venir a nuestra mente preguntas claves asociadas a cómo, cuándo y dónde se originan, qué tan grandes pueden llegar a ser estas bolas de hielo y cuánto daño pueden llegar a causar. Algunas otras preguntas menos frecuentes están relacionadas con qué métodos para detectar granizos existen, cómo podemos predecir con anticipación la ocurrencia de tormentas de granizo y finalmente cuáles son los principales desafíos en la comprensión de este fenómeno, especialmente en un escenario de cambio climático. A continuación abordaré en palabras simples estas preguntas, en base a la literatura científica internacional más reciente.
 
-## What are the impacts of hailstorms?
+## ¿Cuáles son los impactos de las granizadas?
 
-The largest historical hail records are in Europe and the United States. With sizes that have exceeded 150 mm in Germany, France and Italy; while in the United States there are data on hail up to 200 mm in diameter. I would not want to be around when one of those falls.
+Los registros históricos de granizos más grandes se encuentran en Europa y Estados Unidos. Con tamaños que han superado los 150 mm en Alemania, Francia e Italia; mientras que en Estados Unidos existen datos sobre granizos de hasta 200 mm de diámetro. No me gustaría estar cerca cuando caiga uno de esos.
 
 ![]({{ site.baseurl }}/images/Biggest_hailstone.jpg)
-*Fig.2 - Huge hailstone, Vivian, South Dakota, 23/07/2010. The measurement is in inches. Source: Severe Weather Europe.*
+*Fig.2 - Enorme granizo,Vivian, South Dakota, 23/07/2010. La medición está en pulgadas. Fuente: 
+[Severe Weather Europe](https://www.severe-weather.eu/theory/hail-world-records-the-biggest-heaviest-and-deadliest-hail/ "Severe Weather Europe").*
 
 Agriculture is strongly affected when intense hail events occur. Precipitations of small hailstones (~6 mm) are sufficient for a complete loss of production of some types of crops. Larger hailstones (~25 mm) can cause damage to cars and buildings. The costs in damages due to hailstorms amount to billions of dollars annually in the most affected countries.
 
