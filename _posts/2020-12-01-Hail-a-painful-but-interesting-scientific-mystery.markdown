@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  El Granizo: un doloroso pero interesante rompecabezas científico
+title:  "El Granizo: un doloroso pero interesante rompecabezas científico"
 date:   2020-12-01 15:01:35 +0200
 image:  20200813_174038.jpg
 tags:   Meteorología Precipitación
