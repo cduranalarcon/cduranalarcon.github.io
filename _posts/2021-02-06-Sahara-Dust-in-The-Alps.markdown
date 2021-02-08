@@ -10,7 +10,7 @@ El paisaje alpino amaneció con un aspecto sinistro, con el cielo anaranjado deb
 
 El polvo del Sahara, rico en nutrientes y minerales, incluyendo los hidróxidos de hierro que le da su color característico, suele ser levantado por tormentas en el norte de África que pueden ser suficientemente fuertes para llevarlo hacia las partes altas de la atmósfera. Una vez allí, las corrientes atmosféricas se encargan de transportarlo alrededor del mundo como se puede ver en la animación de más abajo, representado por los colores naranjos.
 
-[![]({{ site.baseurl }}/images/dust_sahara/Aerosoles2.gif)](https://gmao.gsfc.nasa.gov/research/aerosol/modeling/nr1_movie/aerosols_geos5.mp4 "Aerosoles")Fig.1 - Pronóstico de polvo (rojo), sal marina (azul), carbono negro y orgánico (verde) y sulfato (blanco) - Animación de espesor óptico de aerosoles de GEOS5. Click en la figura para mayor resolución. Fuente: [GEMAO, NASA](https://gmao.gsfc.nasa.gov/research/aerosol/modeling/nr1_movie/).
+[![]({{ site.baseurl }}/images/dust_sahara/Aerosoles2.gif)](https://gmao.gsfc.nasa.gov/research/aerosol/modeling/nr1_movie/aerosols_geos5.mp4 "Aerosoles") Fig.1 - Pronóstico de polvo (rojo), sal marina (azul), carbono negro y orgánico (verde) y sulfato (blanco) - Animación de espesor óptico de aerosoles de GEOS5. Click en la figura para mayor resolución. Fuente: [GEMAO, NASA](https://gmao.gsfc.nasa.gov/research/aerosol/modeling/nr1_movie/).
 
 ![]({{ site.baseurl }}/images/Hail_ScaleBar_ColdePorte.png) Fig.1 - Ejemplo de granizo encontrado en Col de Porte.
 
