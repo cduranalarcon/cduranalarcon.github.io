@@ -12,3 +12,9 @@ El polvo del Sahara, rico en nutrientes y minerales, incluyendo los hidróxidos 
 
 [![]({{ site.baseurl }}/images/dust_sahara/Aerosoles2.gif)](https://gmao.gsfc.nasa.gov/research/aerosol/modeling/nr1_movie/aerosols_geos5.mp4 "Aerosoles")Fig.1 - Pronóstico de polvo (rojo), sal marina (azul), carbono negro y orgánico (verde) y sulfato (blanco) - Animación de espesor óptico de aerosoles de GEOS5. Click en la figura para mayor resolución. Fuente: [GEMAO, NASA](https://gmao.gsfc.nasa.gov/research/aerosol/modeling/nr1_movie/).
 
+![]({{ site.baseurl }}/images/Hail_ScaleBar_ColdePorte.png) Fig.1 - Ejemplo de granizo encontrado en Col de Porte.
+
+
+![]({{ site.baseurl }}/dust_sahara/Aerosoles2.gif) Fig.1 - Fig.1 - Pronóstico de polvo (rojo), sal marina (azul), carbono negro y orgánico (verde) y sulfato (blanco) - Animación de espesor óptico de aerosoles de GEOS5. Fuente: [GEMAO, NASA](https://gmao.gsfc.nasa.gov/research/aerosol/modeling/nr1_movie/).
+
+
