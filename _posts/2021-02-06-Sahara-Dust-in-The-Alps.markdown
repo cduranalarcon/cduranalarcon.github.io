@@ -26,4 +26,4 @@ En la región Alpina es relativamente frecuente que llegue polvo sahariano. Es n
 
 Este es el resultado:
 
-![]({{ site.baseurl }}/images/dust_sahara/chamrousse_05_06-02-2021.jpg) Fig. 3 - Polvo del Sahara en el centro de ski Chamrousse, macizo de Belledonne, Francia. Imágenes de antes y durante la nube de polvo. Fuente: [Metropole de Grenoble](https://www.grenoblealpesmetropole.fr/159-webcams.htm).
+![]({{ site.baseurl }}/images/dust_sahara/chamrousse_05_06-02-2021.jpg) Fig. 4 - Polvo del Sahara en el centro de ski Chamrousse, macizo de Belledonne, Francia. Imágenes de antes y durante la nube de polvo. Fuente: [Metropole de Grenoble](https://www.grenoblealpesmetropole.fr/159-webcams.htm).
